@@ -1,0 +1,14 @@
+# Skyfield ephemeris cache (downloaded at runtime)
+agent/.skyfield-data/
+*.bsp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db

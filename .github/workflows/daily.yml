@@ -1,0 +1,59 @@
+name: Daily astro-events
+
+on:
+  schedule:
+    # GitHub Actions cron is UTC and does not observe DST.
+    # We fire at both 05:07 and 06:07 UTC; the script self-gates so it only
+    # acts at 07:07 Europe/Rome — that's 05:07 UTC in summer (CEST) and
+    # 06:07 UTC in winter (CET). The non-matching run exits in seconds.
+    - cron: "7 5 * * *"
+    - cron: "7 6 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run regardless of local time"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write   # to commit the dedup state back to the repo
+
+concurrency:
+  group: astro-events
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest   # Linux runner = 1x Actions-minute rate
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Manual runs force; scheduled runs rely on the 07:00 local guard.
+          ASTRO_FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force && '1' || '' }}
+        run: python -m agent.main
+
+      - name: Commit updated state
+        run: |
+          if [[ -n "$(git status --porcelain agent/state/seen.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add agent/state/seen.json
+            git commit -m "chore: update notification state [skip ci]"
+            git push
+          else
+            echo "No state change to commit."
+          fi

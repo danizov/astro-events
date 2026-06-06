@@ -1,0 +1,6 @@
+skyfield>=1.49
+numpy>=1.26
+requests>=2.31
+anthropic>=0.69
+# tzdata is needed for zoneinfo on Windows; harmless on Linux CI.
+tzdata>=2024.1
