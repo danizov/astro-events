@@ -52,7 +52,8 @@ LANG = os.environ.get("ASTRO_LANG", "en")             # message language hint fo
 # --- LLM ---------------------------------------------------------------------
 # Per Anthropic guidance, default to the most capable model. Override with
 # ASTRO_MODEL (e.g. claude-haiku-4-5) if you want to trim cost.
-MODEL = os.environ.get("ASTRO_MODEL", "claude-opus-4-8")
+#MODEL = os.environ.get("ASTRO_MODEL", "claude-opus-4-8")
+MODEL = os.environ.get("ASTRO_MODEL", "claude-haiku-4-5")
 
 # --- Secrets (read from environment / GitHub Actions secrets) ----------------
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
