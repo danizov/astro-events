@@ -2,16 +2,21 @@ name: Daily astro-events
 
 on:
   schedule:
-    # GitHub Actions cron is UTC and does not observe DST.
-    # We fire at both 05:07 and 06:07 UTC; the script self-gates so it only
-    # acts at 07:07 Europe/Rome — that's 05:07 UTC in summer (CEST) and
-    # 06:07 UTC in winter (CET). The non-matching run exits in seconds.
+    # GitHub cron is UTC and does not observe DST. Scheduled runs are
+    # best-effort and can start late (sometimes by hours) — the agent no longer
+    # gates on wall-clock time, so a late start still sends the alert.
+    # We fire twice for redundancy (GitHub can delay or drop one run); the
+    # dedup state ensures you still get only ONE notification per day:
+    #   05:07 UTC = 07:07 CEST (summer) / 06:07 CET (winter)
+    #   06:07 UTC = 08:07 CEST (summer) / 07:07 CET (winter)
+    # Whichever runs first sends the morning alert; the later one finds nothing
+    # new and exits.
     - cron: "7 5 * * *"
     - cron: "7 6 * * *"
   workflow_dispatch:
     inputs:
       force:
-        description: "Run regardless of local time"
+        description: "Re-send even if already notified today (ignore dedup)"
         type: boolean
         default: true
 

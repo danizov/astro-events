@@ -1,6 +1,6 @@
 # astro-events
 
-An AI agent that, **every morning at 07:07 (Europe/Rome)**, works out which
+An AI agent that, **every morning (around 07:00 Europe/Rome)**, works out which
 interesting astronomical objects are visible over the next few nights from
 **Bevagna (PG), Italy** with a **Celestron Inspire 80AZ** (80 mm refractor),
 checks whether the **sky will be clear**, and sends a **Telegram** notification
@@ -53,15 +53,21 @@ configured. Once the secrets are set, it runs automatically. To test it now:
 **Actions → Daily astro-events → Run workflow** (the manual run forces execution
 regardless of the time-of-day guard).
 
-> Note: GitHub disables scheduled workflows after 60 days of repo inactivity.
-> The daily state commit keeps the repo active, so this won't be an issue here.
+> **On timing:** GitHub's cron is UTC and best-effort — scheduled runs often
+> start a few minutes late and occasionally much later. The agent does **not**
+> gate on the clock, so a late start still sends the alert. Two crons fire each
+> morning (05:07 & 06:07 UTC ≈ 07:07 CEST / 06:07 CET) for redundancy; the
+> dedup state means you still get exactly one notification per day.
+>
+> Note: GitHub also disables scheduled workflows after 60 days of repo
+> inactivity. The daily state commit keeps the repo active, so that won't bite.
 
 ## Run locally
 
 ```powershell
 python -m venv .venv; .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-$env:ASTRO_FORCE="1"                # bypass the 07:00 time guard
+$env:ASTRO_FORCE="1"                # re-send even if already notified (ignore dedup)
 $env:TELEGRAM_BOT_TOKEN="..."; $env:TELEGRAM_CHAT_ID="..."
 $env:ANTHROPIC_API_KEY="..."; $env:TAVILY_API_KEY="..."   # optional
 python -m agent.main

@@ -19,6 +19,8 @@ from .sky import Sky, Night
 from .state import State
 from .weather import Weather
 
+# When set (manual runs), re-send even if a target was already notified today,
+# i.e. ignore the dedup state. Scheduled runs leave this empty so dedup applies.
 _FORCE = os.environ.get("ASTRO_FORCE", "").lower() in ("1", "true", "yes")
 
 _COUNTDOWN = {0: "tonight", 1: "tomorrow night", 2: "in 2 nights", 3: "in 3 nights"}
@@ -66,14 +68,15 @@ def run() -> int:
         except (AttributeError, ValueError):
             pass
 
+    # No wall-clock guard: GitHub's scheduler is best-effort and may start the
+    # job late. We just run whenever invoked; the dedup state guarantees a
+    # single notification per day even though two crons fire (and gives us
+    # redundancy if GitHub delays or drops one of them).
     tz = ZoneInfo(config.TIMEZONE)
     now = dt.datetime.now(tz)
-    if not _FORCE and now.hour != config.RUN_HOUR_LOCAL:
-        print(f"[main] {now:%Y-%m-%d %H:%M %Z}: not {config.RUN_HOUR_LOCAL:02d}:xx local, skipping.")
-        return 0
-
     today = now.date()
-    print(f"[main] Running for {today} ({config.TIMEZONE}).")
+    print(f"[main] Running at {now:%Y-%m-%d %H:%M %Z} for {today}"
+          f"{' (FORCE: ignoring dedup)' if _FORCE else ''}.")
 
     sky = Sky()
     weather = Weather()
@@ -107,7 +110,7 @@ def run() -> int:
         highlights = _select(night)
         to_send = []
         for t in highlights:
-            if state.already_notified(t.id, night_date, offset):
+            if not _FORCE and state.already_notified(t.id, night_date, offset):
                 continue
             state.mark_notified(t.id, night_date, offset)
             to_send.append(t)
