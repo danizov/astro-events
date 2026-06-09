@@ -8,12 +8,16 @@
     "astronomical events 2026: the definitive photography guide | photopills",
     "june 2026 is a sky spectacle month! this june has ... - facebook",
     "what's up: june 2026 skywatching tips from nasa",
-    "astronomical events 2026: the definitive photography guide"
+    "astronomical events 2026: the definitive photography guide",
+    "what's up: june 2026 skywatching tips from nasa - nasa science"
   ],
   "notified": {
     "albireo|2026-06-09": [
       1,
       0
+    ],
+    "albireo|2026-06-10": [
+      1
     ],
     "albireo|2026-06-12": [
       3
@@ -22,12 +26,18 @@
       1,
       0
     ],
+    "cor|2026-06-10": [
+      1
+    ],
     "cor|2026-06-12": [
       3
     ],
     "double|2026-06-09": [
       1,
       0
+    ],
+    "double|2026-06-10": [
+      1
     ],
     "double|2026-06-12": [
       3
@@ -36,12 +46,18 @@
       1,
       0
     ],
+    "m13|2026-06-10": [
+      1
+    ],
     "m13|2026-06-12": [
       3
     ],
     "m31|2026-06-09": [
       1,
       0
+    ],
+    "m31|2026-06-10": [
+      1
     ],
     "m31|2026-06-12": [
       3
@@ -50,6 +66,9 @@
       1,
       0
     ],
+    "m39|2026-06-10": [
+      1
+    ],
     "m39|2026-06-12": [
       3
     ],
@@ -57,13 +76,16 @@
       1,
       0
     ],
+    "mizar|2026-06-10": [
+      1
+    ],
     "mizar|2026-06-12": [
       3
     ]
   },
   "weather": {
     "__night__|2026-06-09": "clear",
-    "__night__|2026-06-10": "partly cloudy",
+    "__night__|2026-06-10": "clear",
     "__night__|2026-06-11": "cloudy",
     "__night__|2026-06-12": "clear"
   }
