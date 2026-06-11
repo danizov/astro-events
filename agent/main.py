@@ -1,10 +1,13 @@
 """Daily entry point.
 
 Run order:
-  1. Time guard (only act at 07:xx Europe/Rome unless forced).
-  2. Compute the next N nights of visibility + weather.
-  3. Decide what to notify using the -3/-2/-1/tonight countdown + dedup state.
-  4. Compose (Claude) and send (Telegram). Persist state.
+  1. Compute the next N nights of visibility + weather.
+  2. Decide what to notify using the -3/-2/-1/tonight countdown + dedup state.
+  3. Compose (Claude) and send (Telegram). Persist state.
+
+Transient network failures (e.g. a dropped TLS handshake to the weather API)
+are retried by agent.http; if they still fail, the run skips cleanly so the
+job stays green and the next run recovers.
 """
 
 from __future__ import annotations
@@ -13,6 +16,8 @@ import datetime as dt
 import os
 import sys
 from zoneinfo import ZoneInfo
+
+import requests
 
 from . import config, events, judge, notify
 from .sky import Sky, Night
@@ -78,9 +83,17 @@ def run() -> int:
     print(f"[main] Running at {now:%Y-%m-%d %H:%M %Z} for {today}"
           f"{' (FORCE: ignoring dedup)' if _FORCE else ''}.")
 
-    sky = Sky()
-    weather = Weather()
-    weather.load(days=config.LOOKAHEAD_NIGHTS + 2)
+    # Network-dependent setup: ephemeris download + weather forecast. Retries
+    # live in agent.http; this is the final safety net for a genuine outage.
+    try:
+        sky = Sky()
+        weather = Weather()
+        weather.load(days=config.LOOKAHEAD_NIGHTS + 2)
+    except (OSError, requests.RequestException) as e:
+        print(f"[main] Network error during setup ({type(e).__name__}: {e}); "
+              f"skipping this run, will retry next time.")
+        return 0
+
     state = State.load()
     state.prune(today)
 

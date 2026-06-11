@@ -10,9 +10,7 @@ import datetime as dt
 from dataclasses import dataclass
 from zoneinfo import ZoneInfo
 
-import requests
-
-from . import config
+from . import config, http
 
 _URL = "https://api.open-meteo.com/v1/forecast"
 
@@ -43,7 +41,7 @@ class Weather:
             "timezone": config.TIMEZONE,
             "forecast_days": days,
         }
-        r = requests.get(_URL, params=params, timeout=30)
+        r = http.get(_URL, params=params, timeout=30)
         r.raise_for_status()
         data = r.json()["hourly"]
         for iso, cover in zip(data["time"], data["cloud_cover"]):

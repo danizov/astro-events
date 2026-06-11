@@ -14,7 +14,7 @@ import re
 
 import requests
 
-from . import config
+from . import config, http
 
 _MAX_LEN = 4096  # Telegram hard limit per message
 
@@ -42,7 +42,7 @@ def _post(text: str, parse_mode: str | None) -> requests.Response:
     }
     if parse_mode:
         payload["parse_mode"] = parse_mode
-    return requests.post(url, json=payload, timeout=30)
+    return http.post(url, json=payload, timeout=30)
 
 
 def send(text: str) -> bool:

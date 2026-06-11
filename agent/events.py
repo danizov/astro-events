@@ -9,9 +9,7 @@ from __future__ import annotations
 
 import datetime as dt
 
-import requests
-
-from . import config
+from . import config, http
 
 _URL = "https://api.tavily.com/search"
 
@@ -26,7 +24,7 @@ def fetch_events(today: dt.date) -> list[dict]:
         f"bright comets, meteor shower peaks, aurora forecast, planetary conjunctions"
     )
     try:
-        r = requests.post(_URL, json={
+        r = http.post(_URL, json={
             "api_key": config.TAVILY_API_KEY,
             "query": query,
             "search_depth": "basic",
