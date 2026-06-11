@@ -12,84 +12,100 @@
     "what's up: june 2026 skywatching tips from nasa - nasa science",
     "9 night sky events to see in june, from a 'strawberry moon ...",
     "\ud83c\udf0c june 2026 skywatching guide \u2014 don\u2019t miss these amazing celestial events! \ud83d\udd2d\u2728 | facebook",
-    "astronomical events 2026 - time and date"
+    "astronomical events 2026 - time and date",
+    "conjunctions, a parade, meteors, a solstice, and a strawberry moon ...",
+    "most notable 2026 astronomical events: a year of watching the skies - nasa"
   ],
   "notified": {
-    "albireo|2026-06-10": [
+    "albireo|2026-06-12": [
+      3,
+      2,
       1
     ],
-    "albireo|2026-06-12": [
+    "albireo|2026-06-13": [
       3,
       2
     ],
-    "albireo|2026-06-13": [
+    "albireo|2026-06-14": [
       3
-    ],
-    "cor|2026-06-10": [
-      1
     ],
     "cor|2026-06-12": [
       3,
-      2
+      2,
+      1
     ],
     "cor|2026-06-13": [
-      3
+      3,
+      2
     ],
-    "double|2026-06-10": [
-      1
+    "cor|2026-06-14": [
+      3
     ],
     "double|2026-06-12": [
       3,
-      2
+      2,
+      1
     ],
     "double|2026-06-13": [
-      3
+      3,
+      2
     ],
-    "m13|2026-06-10": [
-      1
+    "double|2026-06-14": [
+      3
     ],
     "m13|2026-06-12": [
       3,
-      2
+      2,
+      1
     ],
     "m13|2026-06-13": [
-      3
+      3,
+      2
     ],
-    "m31|2026-06-10": [
-      1
+    "m13|2026-06-14": [
+      3
     ],
     "m31|2026-06-12": [
       3,
-      2
+      2,
+      1
     ],
     "m31|2026-06-13": [
-      3
+      3,
+      2
     ],
-    "m39|2026-06-10": [
-      1
+    "m31|2026-06-14": [
+      3
     ],
     "m39|2026-06-12": [
       3,
-      2
-    ],
-    "m39|2026-06-13": [
-      3
-    ],
-    "mizar|2026-06-10": [
+      2,
       1
     ],
-    "mizar|2026-06-12": [
+    "m39|2026-06-13": [
       3,
       2
     ],
+    "m39|2026-06-14": [
+      3
+    ],
+    "mizar|2026-06-12": [
+      3,
+      2,
+      1
+    ],
     "mizar|2026-06-13": [
+      3,
+      2
+    ],
+    "mizar|2026-06-14": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-06-10": "cloudy",
     "__night__|2026-06-11": "cloudy",
     "__night__|2026-06-12": "clear",
-    "__night__|2026-06-13": "clear"
+    "__night__|2026-06-13": "clear",
+    "__night__|2026-06-14": "clear"
   }
 }
