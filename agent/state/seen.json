@@ -20,119 +20,134 @@
     "9 night sky events to see in june, from a \u2018strawberry moon\u2019 to an ultra-close planetary conjunction | national geographic",
     "what\u2019s up in the night sky: june 2026 | the planetary society",
     "june 2026 calendar - explore scientific",
-    "june 2026 astronomy events: planetary alignments and celestial treats"
+    "june 2026 astronomy events: planetary alignments and celestial treats",
+    "june 2026 night sky guide \u2014 every must-see event this month"
   ],
   "notified": {
-    "albireo|2026-06-12": [
+    "albireo|2026-06-13": [
       3,
       2,
       1,
       0
     ],
-    "albireo|2026-06-13": [
+    "albireo|2026-06-14": [
       3,
       2,
       1
     ],
-    "albireo|2026-06-14": [
-      3,
+    "albireo|2026-06-15": [
       2
     ],
-    "cor|2026-06-12": [
-      3,
-      2,
-      1,
-      0
+    "albireo|2026-06-16": [
+      3
     ],
     "cor|2026-06-13": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "cor|2026-06-14": [
       3,
+      2,
+      1
+    ],
+    "cor|2026-06-15": [
       2
     ],
-    "double|2026-06-12": [
-      3,
-      2,
-      1,
-      0
+    "cor|2026-06-16": [
+      3
     ],
     "double|2026-06-13": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "double|2026-06-14": [
       3,
+      2,
+      1
+    ],
+    "double|2026-06-15": [
       2
     ],
-    "m13|2026-06-12": [
-      3,
-      2,
-      1,
-      0
+    "double|2026-06-16": [
+      3
     ],
     "m13|2026-06-13": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m13|2026-06-14": [
       3,
+      2,
+      1
+    ],
+    "m13|2026-06-15": [
       2
     ],
-    "m31|2026-06-12": [
-      3,
-      2,
-      1,
-      0
+    "m13|2026-06-16": [
+      3
     ],
     "m31|2026-06-13": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-06-14": [
       3,
+      2,
+      1
+    ],
+    "m31|2026-06-15": [
       2
     ],
-    "m39|2026-06-12": [
-      3,
-      2,
-      1,
-      0
+    "m31|2026-06-16": [
+      3
     ],
     "m39|2026-06-13": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m39|2026-06-14": [
       3,
+      2,
+      1
+    ],
+    "m39|2026-06-15": [
       2
     ],
-    "mizar|2026-06-12": [
+    "m39|2026-06-16": [
+      3
+    ],
+    "mizar|2026-06-13": [
       3,
       2,
       1,
       0
     ],
-    "mizar|2026-06-13": [
+    "mizar|2026-06-14": [
       3,
       2,
       1
     ],
-    "mizar|2026-06-14": [
-      3,
+    "mizar|2026-06-15": [
       2
+    ],
+    "mizar|2026-06-16": [
+      3
     ]
   },
   "weather": {
-    "__night__|2026-06-12": "clear",
     "__night__|2026-06-13": "clear",
     "__night__|2026-06-14": "clear",
-    "__night__|2026-06-15": "partly cloudy"
+    "__night__|2026-06-15": "clear",
+    "__night__|2026-06-16": "clear"
   }
 }
