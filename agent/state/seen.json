@@ -40,109 +40,102 @@
     "506k views \u00b7 3.9k reactions | june 2026 is a sky spectacle month! \ud83c\udf1f\u2060\nthis june has it all: conjunctions, a parade, meteors, a solstice, and a strawberry moon. don't just glance up \u2013 look up and enjoy the show!\u2060\nhere are the main events to watch:\u2060\n\u2060\n\u2604\ufe0f jun 7 \u2013 peak of daytime arietids (30 meteors/hour, best at dawn)\u2060\n\ud83e\udd1d jun 9 \u2013 venus & jupiter super-close conjunction \u2013 two brightest planets kiss!\u2060\n\ud83c\udf0c jun 12 \u2013 mini planet parade: venus + jupiter + mercury in one line\u2060\n\ud83d\udd2d jun 15 \u2013 mercury at greatest eastern elongation \u2013 perfect evening view of the elusive planet\u2060\n\ud83c\udf19 jun 17 \u2013 lunar occultation of venus \u2013 the moon hides venus (visible even by day!)\u2060\n\u2600\ufe0f jun 21 \u2013 june solstice \u2013 official start of astronomical summer\u2060\n\ud83c\udf20 jun 22 \u2013 peak of june bootids \u2013 unpredictable but could surprise with meteors\u2060\n\ud83e\ude90 jun 25 \u2013 mercury & jupiter conjunction \u2013 another stunning planetary duo\u2060\n\ud83c\udf53 jun 29 \u2013 strawberry full moon \u2013 low, bright & beautiful\u2060\n\u2060\n#june2026 #planetparade #strawberrymoon #venusjupiter #starwalk | star walk"
   ],
   "notified": {
-    "double|2026-06-26": [
-      3,
-      2,
-      1,
-      0
-    ],
     "double|2026-06-27": [
       3,
       2,
-      1
-    ],
-    "double|2026-06-28": [
-      3
-    ],
-    "m13|2026-06-26": [
-      3,
-      2,
       1,
       0
+    ],
+    "double|2026-06-28": [
+      3,
+      1
+    ],
+    "double|2026-06-30": [
+      3
     ],
     "m13|2026-06-27": [
       3,
       2,
-      1
-    ],
-    "m13|2026-06-28": [
-      3
-    ],
-    "m31|2026-06-26": [
-      3,
-      2,
       1,
       0
+    ],
+    "m13|2026-06-28": [
+      3,
+      1
+    ],
+    "m13|2026-06-30": [
+      3
     ],
     "m31|2026-06-27": [
       3,
       2,
-      1
-    ],
-    "m31|2026-06-28": [
-      3
-    ],
-    "m39|2026-06-26": [
-      3,
-      2,
       1,
       0
+    ],
+    "m31|2026-06-28": [
+      3,
+      1
+    ],
+    "m31|2026-06-30": [
+      3
     ],
     "m39|2026-06-27": [
       3,
       2,
-      1
-    ],
-    "m39|2026-06-28": [
-      3
-    ],
-    "mizar|2026-06-26": [
-      3,
-      2,
       1,
       0
+    ],
+    "m39|2026-06-28": [
+      3,
+      1
+    ],
+    "m39|2026-06-30": [
+      3
     ],
     "mizar|2026-06-27": [
       3,
       2,
-      1
-    ],
-    "mizar|2026-06-28": [
-      3
-    ],
-    "moon|2026-06-26": [
-      3,
-      2,
       1,
       0
+    ],
+    "mizar|2026-06-28": [
+      3,
+      1
+    ],
+    "mizar|2026-06-30": [
+      3
     ],
     "moon|2026-06-27": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "moon|2026-06-28": [
+      3,
+      1
+    ],
+    "moon|2026-06-30": [
       3
     ],
-    "saturn|2026-06-26": [
+    "saturn|2026-06-27": [
       3,
       2,
       1,
       0
     ],
-    "saturn|2026-06-27": [
+    "saturn|2026-06-28": [
       3,
-      2,
       1
     ],
-    "saturn|2026-06-28": [
+    "saturn|2026-06-30": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-06-26": "clear",
     "__night__|2026-06-27": "clear",
-    "__night__|2026-06-28": "partly cloudy",
-    "__night__|2026-06-29": "cloudy"
+    "__night__|2026-06-28": "clear",
+    "__night__|2026-06-29": "cloudy",
+    "__night__|2026-06-30": "clear"
   }
 }
