@@ -40,7 +40,7 @@ def _compose_llm(payload: dict) -> str:
     import anthropic
 
     client = anthropic.Anthropic()
-    lang = "Italian" if config.LANG.lower().startswith("it") else "English"
+    lang = config.language_name()
     prompt = (
         f"Write the message in {lang}. Observer location: {payload['location']}. "
         f"Telescope: {payload['telescope']}.\n\n"

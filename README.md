@@ -88,7 +88,7 @@ Everything is overridable via environment variables (see
 | `ASTRO_MIN_ALT_DSO` | `25` | minimum culmination altitude for deep-sky targets (°) |
 | `ASTRO_CLOUD_CLEAR_PCT` | `30` | mean night-time cloud cover counted as "clear" (%) |
 | `ASTRO_MAX_HIGHLIGHTS` | `7` | max targets listed per night |
-| `ASTRO_LANG` | `en` | message language (`it` for Italian) |
+| `ASTRO_LANG` | `en` | output language — ISO code (`it`, `es`, `fr`, `de`, `pt`, `ja`, …) or a plain language name (`Swedish`, `Português`). Any language Claude speaks works |
 | `ASTRO_MODEL` | `claude-opus-4-8` | Claude model (e.g. `claude-haiku-4-5` to cut cost) |
 | `ASTRO_LAT` / `ASTRO_LON` / `ASTRO_ELEVATION_M` | Bevagna | observer location |
 

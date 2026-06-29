@@ -47,7 +47,22 @@ RUN_HOUR_LOCAL = _i("ASTRO_RUN_HOUR_LOCAL", 7)        # only act at 07:xx local 
 MAX_HIGHLIGHTS_PER_NIGHT = _i("ASTRO_MAX_HIGHLIGHTS", 7)
 
 # --- Output ------------------------------------------------------------------
-LANG = os.environ.get("ASTRO_LANG", "en")             # message language hint for the LLM
+# Output language. Accepts an ISO code (en, it, es, fr, de, pt, ...) or a plain
+# language name ("Swedish", "Português", "日本語"). Anything not in the table
+# below is passed to the LLM verbatim, so any language the model speaks works.
+LANG = os.environ.get("ASTRO_LANG", "en")
+
+_LANG_NAMES = {
+    "en": "English", "it": "Italian", "es": "Spanish", "fr": "French",
+    "de": "German", "pt": "Portuguese", "nl": "Dutch", "ca": "Catalan",
+    "ru": "Russian", "pl": "Polish", "ja": "Japanese", "zh": "Chinese",
+    "el": "Greek", "sv": "Swedish", "ro": "Romanian", "tr": "Turkish",
+}
+
+def language_name() -> str:
+    """Resolve LANG to a language name the LLM can write in."""
+    key = LANG.strip().lower()
+    return _LANG_NAMES.get(key, LANG.strip() or "English")
 
 # --- LLM ---------------------------------------------------------------------
 # Per Anthropic guidance, default to the most capable model. Override with
