@@ -53,13 +53,15 @@
     "july 2026 calendar",
     "july 2026 calendar - explore scientific",
     "8 night sky events to see in july, from twin meteor showers to the milky way's glittering core | national geographic",
-    "aye universe - \ud83c\udf0c\u2728 july 2026 is packed with amazing sky..."
+    "aye universe - \ud83c\udf0c\u2728 july 2026 is packed with amazing sky...",
+    "sky events to see in july 2026 - youtube"
   ],
   "notified": {
     "double|2026-07-06": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "double|2026-07-07": [
       3,
@@ -74,7 +76,8 @@
     "m13|2026-07-06": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m13|2026-07-07": [
       3,
@@ -89,7 +92,8 @@
     "m31|2026-07-06": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-07-07": [
       3,
@@ -104,7 +108,8 @@
     "m39|2026-07-06": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m39|2026-07-07": [
       3,
@@ -119,7 +124,8 @@
     "mizar|2026-07-06": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "mizar|2026-07-07": [
       3,
@@ -134,7 +140,8 @@
     "moon|2026-07-06": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "moon|2026-07-07": [
       3,
@@ -149,7 +156,8 @@
     "saturn|2026-07-06": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "saturn|2026-07-07": [
       3,
@@ -163,9 +171,9 @@
     ]
   },
   "weather": {
-    "__night__|2026-07-06": "partly cloudy",
+    "__night__|2026-07-06": "clear",
     "__night__|2026-07-07": "partly cloudy",
-    "__night__|2026-07-08": "clear",
+    "__night__|2026-07-08": "cloudy",
     "__night__|2026-07-09": "clear"
   }
 }
