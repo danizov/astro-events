@@ -52,13 +52,10 @@
     "night sky events to see in july 2026 - facebook",
     "july 2026 calendar",
     "july 2026 calendar - explore scientific",
-    "8 night sky events to see in july, from twin meteor showers to the milky way's glittering core | national geographic"
+    "8 night sky events to see in july, from twin meteor showers to the milky way's glittering core | national geographic",
+    "aye universe - \ud83c\udf0c\u2728 july 2026 is packed with amazing sky..."
   ],
   "notified": {
-    "double|2026-07-05": [
-      3,
-      1
-    ],
     "double|2026-07-06": [
       3,
       2,
@@ -68,9 +65,11 @@
       3,
       2
     ],
-    "m13|2026-07-05": [
-      3,
-      1
+    "double|2026-07-08": [
+      2
+    ],
+    "double|2026-07-09": [
+      3
     ],
     "m13|2026-07-06": [
       3,
@@ -81,9 +80,11 @@
       3,
       2
     ],
-    "m31|2026-07-05": [
-      3,
-      1
+    "m13|2026-07-08": [
+      2
+    ],
+    "m13|2026-07-09": [
+      3
     ],
     "m31|2026-07-06": [
       3,
@@ -94,9 +95,11 @@
       3,
       2
     ],
-    "m39|2026-07-05": [
-      3,
-      1
+    "m31|2026-07-08": [
+      2
+    ],
+    "m31|2026-07-09": [
+      3
     ],
     "m39|2026-07-06": [
       3,
@@ -107,9 +110,11 @@
       3,
       2
     ],
-    "mizar|2026-07-05": [
-      3,
-      1
+    "m39|2026-07-08": [
+      2
+    ],
+    "m39|2026-07-09": [
+      3
     ],
     "mizar|2026-07-06": [
       3,
@@ -120,9 +125,11 @@
       3,
       2
     ],
-    "moon|2026-07-05": [
-      3,
-      1
+    "mizar|2026-07-08": [
+      2
+    ],
+    "mizar|2026-07-09": [
+      3
     ],
     "moon|2026-07-06": [
       3,
@@ -133,9 +140,11 @@
       3,
       2
     ],
-    "saturn|2026-07-05": [
-      3,
-      1
+    "moon|2026-07-08": [
+      2
+    ],
+    "moon|2026-07-09": [
+      3
     ],
     "saturn|2026-07-06": [
       3,
@@ -145,12 +154,18 @@
     "saturn|2026-07-07": [
       3,
       2
+    ],
+    "saturn|2026-07-08": [
+      2
+    ],
+    "saturn|2026-07-09": [
+      3
     ]
   },
   "weather": {
-    "__night__|2026-07-05": "partly cloudy",
-    "__night__|2026-07-06": "clear",
-    "__night__|2026-07-07": "clear",
-    "__night__|2026-07-08": "cloudy"
+    "__night__|2026-07-06": "partly cloudy",
+    "__night__|2026-07-07": "partly cloudy",
+    "__night__|2026-07-08": "clear",
+    "__night__|2026-07-09": "clear"
   }
 }
