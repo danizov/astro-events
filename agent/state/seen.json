@@ -67,126 +67,141 @@
     "notable - the markdown-based note-taking app that doesn't suck",
     "notable synonyms & antonyms - 147 words | thesaurus.com",
     "github - notable/notable: the markdown-based note-taking app that doesn't suck. \u00b7 github",
-    "astronomy calendar of celestial events 2026"
+    "astronomy calendar of celestial events 2026",
+    "a complete guide to the night sky in july 2026 from earth ..."
   ],
   "notified": {
-    "albireo|2026-07-13": [
-      3,
-      2
-    ],
     "albireo|2026-07-14": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "albireo|2026-07-15": [
       3,
       2,
       1
     ],
-    "albireo|2026-07-15": [
-      3,
-      2
-    ],
     "albireo|2026-07-16": [
-      3
-    ],
-    "double|2026-07-13": [
       3,
       2
+    ],
+    "albireo|2026-07-17": [
+      3
     ],
     "double|2026-07-14": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "double|2026-07-15": [
       3,
-      2
+      2,
+      1
     ],
     "double|2026-07-16": [
-      3
-    ],
-    "m13|2026-07-13": [
       3,
       2
+    ],
+    "double|2026-07-17": [
+      3
     ],
     "m13|2026-07-14": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m13|2026-07-15": [
       3,
-      2
+      2,
+      1
     ],
     "m13|2026-07-16": [
-      3
-    ],
-    "m31|2026-07-13": [
       3,
       2
+    ],
+    "m13|2026-07-17": [
+      3
     ],
     "m31|2026-07-14": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-07-15": [
       3,
-      2
+      2,
+      1
     ],
     "m31|2026-07-16": [
-      3
-    ],
-    "m39|2026-07-13": [
       3,
       2
+    ],
+    "m31|2026-07-17": [
+      3
     ],
     "m39|2026-07-14": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m39|2026-07-15": [
       3,
-      2
+      2,
+      1
     ],
     "m39|2026-07-16": [
-      3
-    ],
-    "mizar|2026-07-13": [
       3,
       2
+    ],
+    "m39|2026-07-17": [
+      3
     ],
     "mizar|2026-07-14": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "mizar|2026-07-15": [
-      3,
-      2
-    ],
-    "mizar|2026-07-16": [
-      3
-    ],
-    "saturn|2026-07-13": [
-      3,
-      2
-    ],
-    "saturn|2026-07-14": [
       3,
       2,
       1
     ],
-    "saturn|2026-07-15": [
+    "mizar|2026-07-16": [
       3,
       2
     ],
+    "mizar|2026-07-17": [
+      3
+    ],
+    "saturn|2026-07-14": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "saturn|2026-07-15": [
+      3,
+      2,
+      1
+    ],
     "saturn|2026-07-16": [
+      3,
+      2
+    ],
+    "saturn|2026-07-17": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-07-13": "partly cloudy",
     "__night__|2026-07-14": "clear",
     "__night__|2026-07-15": "clear",
-    "__night__|2026-07-16": "clear"
+    "__night__|2026-07-16": "clear",
+    "__night__|2026-07-17": "clear"
   }
 }
