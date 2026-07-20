@@ -77,126 +77,120 @@
     "meteor shower, buck moon: astronomical events for july 2026",
     "grab your binoculars and scan the eastern predawn sky for this icy visitor ...",
     "\ud83d\udccdattention guys\ud83d\udea83 most stunning astronomical events in july 2026. ...",
-    "astronomy calendar: notable celestial events 2026 \ud83d\udcc5\u2060 \u2060 2026 has lots of ..."
+    "astronomy calendar: notable celestial events 2026 \ud83d\udcc5\u2060 \u2060 2026 has lots of ...",
+    "july 2026 celestial events: meteor showers and planetary ..."
   ],
   "notified": {
     "albireo|2026-07-21": [
       3,
       2
     ],
-    "almach|2026-07-19": [
-      3,
-      2,
+    "almach|2026-07-20": [
       1,
       0
-    ],
-    "almach|2026-07-20": [
-      1
     ],
     "almach|2026-07-21": [
       3,
       2
     ],
     "almach|2026-07-22": [
+      3,
+      2
+    ],
+    "almach|2026-07-23": [
       3
     ],
-    "double|2026-07-19": [
-      3,
-      2,
+    "double|2026-07-20": [
       1,
       0
-    ],
-    "double|2026-07-20": [
-      1
     ],
     "double|2026-07-21": [
       3,
       2
     ],
     "double|2026-07-22": [
+      3,
+      2
+    ],
+    "double|2026-07-23": [
       3
     ],
-    "m13|2026-07-19": [
-      3,
-      2,
+    "m13|2026-07-20": [
       1,
       0
-    ],
-    "m13|2026-07-20": [
-      1
     ],
     "m13|2026-07-21": [
       3,
       2
     ],
     "m13|2026-07-22": [
+      3,
+      2
+    ],
+    "m13|2026-07-23": [
       3
     ],
-    "m31|2026-07-19": [
-      3,
-      2,
+    "m31|2026-07-20": [
       1,
       0
-    ],
-    "m31|2026-07-20": [
-      1
     ],
     "m31|2026-07-21": [
       3,
       2
     ],
     "m31|2026-07-22": [
+      3,
+      2
+    ],
+    "m31|2026-07-23": [
       3
     ],
-    "m39|2026-07-19": [
-      3,
-      2,
+    "m39|2026-07-20": [
       1,
       0
-    ],
-    "m39|2026-07-20": [
-      1
     ],
     "m39|2026-07-21": [
       3,
       2
     ],
     "m39|2026-07-22": [
-      3
-    ],
-    "mizar|2026-07-19": [
       3,
-      2,
-      1,
-      0
+      2
+    ],
+    "m39|2026-07-23": [
+      3
     ],
     "mizar|2026-07-20": [
-      1
-    ],
-    "moon|2026-07-22": [
-      3
-    ],
-    "saturn|2026-07-19": [
-      3,
-      2,
       1,
       0
     ],
+    "moon|2026-07-22": [
+      3,
+      2
+    ],
+    "moon|2026-07-23": [
+      3
+    ],
     "saturn|2026-07-20": [
-      1
+      1,
+      0
     ],
     "saturn|2026-07-21": [
       3,
       2
     ],
     "saturn|2026-07-22": [
+      3,
+      2
+    ],
+    "saturn|2026-07-23": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-07-19": "clear",
     "__night__|2026-07-20": "clear",
-    "__night__|2026-07-21": "clear",
-    "__night__|2026-07-22": "clear"
+    "__night__|2026-07-21": "partly cloudy",
+    "__night__|2026-07-22": "clear",
+    "__night__|2026-07-23": "clear"
   }
 }
