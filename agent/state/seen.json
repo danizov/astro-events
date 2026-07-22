@@ -78,119 +78,109 @@
     "grab your binoculars and scan the eastern predawn sky for this icy visitor ...",
     "\ud83d\udccdattention guys\ud83d\udea83 most stunning astronomical events in july 2026. ...",
     "astronomy calendar: notable celestial events 2026 \ud83d\udcc5\u2060 \u2060 2026 has lots of ...",
-    "july 2026 celestial events: meteor showers and planetary ..."
+    "july 2026 celestial events: meteor showers and planetary ...",
+    "the night sky | july 2026 | comet tempel 2 |  delta aquarids meteor shower",
+    "july sky 2026: a stunning planetary conjunction and more",
+    "july 2026: what's in the sky this month?",
+    "july 2026 astronomy events guide"
   ],
   "notified": {
-    "albireo|2026-07-21": [
-      3,
-      2
-    ],
-    "almach|2026-07-21": [
-      3,
-      2
-    ],
     "almach|2026-07-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "almach|2026-07-23": [
       3
     ],
-    "double|2026-07-21": [
-      3,
-      2
-    ],
     "double|2026-07-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "double|2026-07-23": [
       3
     ],
     "double|2026-07-24": [
-      3
-    ],
-    "m13|2026-07-21": [
       3,
       2
     ],
     "m13|2026-07-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m13|2026-07-23": [
       3
     ],
-    "m31|2026-07-21": [
-      3,
-      2
-    ],
     "m31|2026-07-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-07-23": [
       3
     ],
     "m31|2026-07-24": [
-      3
-    ],
-    "m39|2026-07-21": [
       3,
       2
     ],
     "m39|2026-07-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m39|2026-07-23": [
       3
     ],
     "m39|2026-07-24": [
-      3
+      3,
+      2
     ],
     "m45|2026-07-24": [
-      3
+      3,
+      2
     ],
     "mars|2026-07-24": [
-      3
+      3,
+      2
     ],
     "moon|2026-07-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "moon|2026-07-23": [
       3
     ],
     "moon|2026-07-24": [
-      3
-    ],
-    "saturn|2026-07-21": [
       3,
       2
     ],
     "saturn|2026-07-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "saturn|2026-07-23": [
       3
     ],
     "saturn|2026-07-24": [
-      3
+      3,
+      2
     ]
   },
   "weather": {
-    "__night__|2026-07-21": "cloudy",
     "__night__|2026-07-22": "clear",
-    "__night__|2026-07-23": "cloudy",
-    "__night__|2026-07-24": "clear"
+    "__night__|2026-07-23": "partly cloudy",
+    "__night__|2026-07-24": "clear",
+    "__night__|2026-07-25": "cloudy"
   }
 }
