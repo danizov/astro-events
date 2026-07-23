@@ -83,23 +83,17 @@
     "july sky 2026: a stunning planetary conjunction and more",
     "july 2026: what's in the sky this month?",
     "july 2026 astronomy events guide",
-    "the astronomical events of 2026 you won't want to miss | fox weather"
+    "the astronomical events of 2026 you won't want to miss | fox weather",
+    "notable definition & meaning",
+    "notable definition & meaning",
+    "notable - definition, meaning & synonyms",
+    "notable | definition in the cambridge english dictionary",
+    "notable definition in american english",
+    "notable | linkedin"
   ],
   "notified": {
-    "almach|2026-07-22": [
-      3,
-      2,
-      1,
-      0
-    ],
     "almach|2026-07-23": [
       3
-    ],
-    "double|2026-07-22": [
-      3,
-      2,
-      1,
-      0
     ],
     "double|2026-07-23": [
       3
@@ -108,20 +102,8 @@
       3,
       2
     ],
-    "m13|2026-07-22": [
-      3,
-      2,
-      1,
-      0
-    ],
     "m13|2026-07-23": [
       3
-    ],
-    "m31|2026-07-22": [
-      3,
-      2,
-      1,
-      0
     ],
     "m31|2026-07-23": [
       3
@@ -129,12 +111,6 @@
     "m31|2026-07-24": [
       3,
       2
-    ],
-    "m39|2026-07-22": [
-      3,
-      2,
-      1,
-      0
     ],
     "m39|2026-07-23": [
       3
@@ -151,24 +127,12 @@
       3,
       2
     ],
-    "moon|2026-07-22": [
-      3,
-      2,
-      1,
-      0
-    ],
     "moon|2026-07-23": [
       3
     ],
     "moon|2026-07-24": [
       3,
       2
-    ],
-    "saturn|2026-07-22": [
-      3,
-      2,
-      1,
-      0
     ],
     "saturn|2026-07-23": [
       3
@@ -179,9 +143,9 @@
     ]
   },
   "weather": {
-    "__night__|2026-07-22": "clear",
     "__night__|2026-07-23": "partly cloudy",
-    "__night__|2026-07-24": "clear",
-    "__night__|2026-07-25": "cloudy"
+    "__night__|2026-07-24": "cloudy",
+    "__night__|2026-07-25": "cloudy",
+    "__night__|2026-07-26": "cloudy"
   }
 }
