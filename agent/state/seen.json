@@ -90,63 +90,100 @@
     "notable | definition in the cambridge english dictionary",
     "notable definition in american english",
     "notable | linkedin",
-    "notable synonyms & antonyms - 147 words"
+    "notable synonyms & antonyms - 147 words",
+    "meteor shower, buck moon: astronomical events for july 2026 - koco",
+    "8 night sky events to see in july, from twin meteor showers to the milky ..."
   ],
   "notified": {
     "double|2026-07-27": [
       3,
-      2
+      2,
+      1
     ],
     "double|2026-07-28": [
+      3,
+      2
+    ],
+    "double|2026-07-29": [
       3
     ],
     "m31|2026-07-27": [
       3,
-      2
+      2,
+      1
     ],
     "m31|2026-07-28": [
+      3,
+      2
+    ],
+    "m31|2026-07-29": [
       3
     ],
     "m39|2026-07-27": [
       3,
-      2
+      2,
+      1
     ],
     "m39|2026-07-28": [
+      3,
+      2
+    ],
+    "m39|2026-07-29": [
       3
     ],
     "m45|2026-07-27": [
       3,
-      2
+      2,
+      1
     ],
     "m45|2026-07-28": [
+      3,
+      2
+    ],
+    "m45|2026-07-29": [
       3
     ],
     "mars|2026-07-27": [
       3,
-      2
+      2,
+      1
     ],
     "mars|2026-07-28": [
+      3,
+      2
+    ],
+    "mars|2026-07-29": [
       3
     ],
     "moon|2026-07-27": [
       3,
-      2
+      2,
+      1
     ],
     "moon|2026-07-28": [
+      3,
+      2
+    ],
+    "moon|2026-07-29": [
       3
     ],
     "saturn|2026-07-27": [
       3,
-      2
+      2,
+      1
     ],
     "saturn|2026-07-28": [
+      3,
+      2
+    ],
+    "saturn|2026-07-29": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-07-25": "cloudy",
-    "__night__|2026-07-26": "cloudy",
+    "__night__|2026-07-26": "partly cloudy",
     "__night__|2026-07-27": "clear",
-    "__night__|2026-07-28": "clear"
+    "__night__|2026-07-28": "clear",
+    "__night__|2026-07-29": "clear"
   }
 }
