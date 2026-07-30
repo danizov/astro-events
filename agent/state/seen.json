@@ -98,140 +98,135 @@
     "meteor shower, buck moon: astronomical events for july ...",
     "the night sky this month \u2013 july 2026",
     "\ud83d\udccdattention guys\ud83d\udea83 most stunning astronomical events ...",
-    "space and astronomy highlights 2026"
+    "space and astronomy highlights 2026",
+    "mesta - celestial events 2026",
+    "12 spectacular night sky events to see in 2026\u2014from a total eclipse to impressive auroras | national geographic"
   ],
   "notified": {
-    "double|2026-07-29": [
+    "double|2026-07-30": [
       3,
       2,
       1,
       0
     ],
-    "double|2026-07-30": [
+    "double|2026-07-31": [
       3,
       2,
       1
-    ],
-    "double|2026-07-31": [
-      3,
-      2
     ],
     "double|2026-08-01": [
       3
     ],
-    "m31|2026-07-29": [
-      3,
-      2,
-      1,
-      0
+    "double|2026-08-02": [
+      3
     ],
     "m31|2026-07-30": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-07-31": [
       3,
-      2
+      2,
+      1
     ],
     "m31|2026-08-01": [
       3
     ],
-    "m39|2026-07-29": [
-      3,
-      2,
-      1,
-      0
+    "m31|2026-08-02": [
+      3
     ],
     "m39|2026-07-30": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m39|2026-07-31": [
       3,
-      2
+      2,
+      1
     ],
     "m39|2026-08-01": [
       3
     ],
-    "m45|2026-07-29": [
-      3,
-      2,
-      1,
-      0
+    "m39|2026-08-02": [
+      3
     ],
     "m45|2026-07-30": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m45|2026-07-31": [
       3,
-      2
+      2,
+      1
     ],
     "m45|2026-08-01": [
       3
     ],
-    "mars|2026-07-29": [
-      3,
-      2,
-      1,
-      0
+    "m45|2026-08-02": [
+      3
     ],
     "mars|2026-07-30": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "mars|2026-07-31": [
       3,
-      2
+      2,
+      1
     ],
     "mars|2026-08-01": [
       3
     ],
-    "moon|2026-07-29": [
-      3,
-      2,
-      1,
-      0
+    "mars|2026-08-02": [
+      3
     ],
     "moon|2026-07-30": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "moon|2026-07-31": [
       3,
-      2
+      2,
+      1
     ],
     "moon|2026-08-01": [
       3
     ],
-    "saturn|2026-07-29": [
+    "moon|2026-08-02": [
+      3
+    ],
+    "saturn|2026-07-30": [
       3,
       2,
       1,
       0
     ],
-    "saturn|2026-07-30": [
+    "saturn|2026-07-31": [
       3,
       2,
       1
     ],
-    "saturn|2026-07-31": [
-      3,
-      2
-    ],
     "saturn|2026-08-01": [
+      3
+    ],
+    "saturn|2026-08-02": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-07-29": "clear",
     "__night__|2026-07-30": "clear",
     "__night__|2026-07-31": "clear",
-    "__night__|2026-08-01": "clear"
+    "__night__|2026-08-01": "partly cloudy",
+    "__night__|2026-08-02": "clear"
   }
 }
