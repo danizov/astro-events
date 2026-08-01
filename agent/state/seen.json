@@ -102,28 +102,22 @@
     "mesta - celestial events 2026",
     "12 spectacular night sky events to see in 2026\u2014from a total eclipse to impressive auroras | national geographic",
     "what\u2019s up in the night sky: july 2026 | the planetary society",
-    "meteor showers 2026 - 2027 - american meteor society"
+    "meteor showers 2026 - 2027 - american meteor society",
+    "\ud83c\udf0c\u2728 top sky events to watch in august 2026 ...",
+    "9 night sky events to see in august, from a total solar eclipse to the return of the northern lights"
   ],
   "notified": {
-    "double|2026-07-31": [
-      3,
-      2,
-      1,
-      0
-    ],
     "double|2026-08-01": [
       3,
       1
     ],
     "double|2026-08-02": [
       3,
-      2
-    ],
-    "m31|2026-07-31": [
-      3,
       2,
-      1,
-      0
+      1
+    ],
+    "double|2026-08-03": [
+      2
     ],
     "m31|2026-08-01": [
       3,
@@ -131,13 +125,11 @@
     ],
     "m31|2026-08-02": [
       3,
-      2
-    ],
-    "m39|2026-07-31": [
-      3,
       2,
-      1,
-      0
+      1
+    ],
+    "m31|2026-08-03": [
+      2
     ],
     "m39|2026-08-01": [
       3,
@@ -145,13 +137,11 @@
     ],
     "m39|2026-08-02": [
       3,
-      2
-    ],
-    "m45|2026-07-31": [
-      3,
       2,
-      1,
-      0
+      1
+    ],
+    "m39|2026-08-03": [
+      2
     ],
     "m45|2026-08-01": [
       3,
@@ -159,13 +149,11 @@
     ],
     "m45|2026-08-02": [
       3,
-      2
-    ],
-    "mars|2026-07-31": [
-      3,
       2,
-      1,
-      0
+      1
+    ],
+    "m45|2026-08-03": [
+      2
     ],
     "mars|2026-08-01": [
       3,
@@ -173,13 +161,11 @@
     ],
     "mars|2026-08-02": [
       3,
-      2
-    ],
-    "moon|2026-07-31": [
-      3,
       2,
-      1,
-      0
+      1
+    ],
+    "mars|2026-08-03": [
+      2
     ],
     "moon|2026-08-01": [
       3,
@@ -187,13 +173,11 @@
     ],
     "moon|2026-08-02": [
       3,
-      2
-    ],
-    "saturn|2026-07-31": [
-      3,
       2,
-      1,
-      0
+      1
+    ],
+    "moon|2026-08-03": [
+      2
     ],
     "saturn|2026-08-01": [
       3,
@@ -201,13 +185,17 @@
     ],
     "saturn|2026-08-02": [
       3,
+      2,
+      1
+    ],
+    "saturn|2026-08-03": [
       2
     ]
   },
   "weather": {
-    "__night__|2026-07-31": "clear",
-    "__night__|2026-08-01": "clear",
+    "__night__|2026-08-01": "partly cloudy",
     "__night__|2026-08-02": "clear",
-    "__night__|2026-08-03": "cloudy"
+    "__night__|2026-08-03": "clear",
+    "__night__|2026-08-04": "partly cloudy"
   }
 }
