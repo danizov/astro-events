@@ -104,98 +104,110 @@
     "what\u2019s up in the night sky: july 2026 | the planetary society",
     "meteor showers 2026 - 2027 - american meteor society",
     "\ud83c\udf0c\u2728 top sky events to watch in august 2026 ...",
-    "9 night sky events to see in august, from a total solar eclipse to the return of the northern lights"
+    "9 night sky events to see in august, from a total solar eclipse to the return of the northern lights",
+    "night sky events to see in august 2026 \u2604\ufe0f\u2728",
+    "space and astronomy highlights in 2026",
+    "aye universe - \ud83c\udf0c\u2728 top sky events to watch in august 2026...",
+    "9 night sky events to see in august, from a total solar eclipse to the return of ...",
+    "what's up in the night sky: august 2026"
   ],
   "notified": {
-    "double|2026-08-01": [
-      3,
-      1
-    ],
     "double|2026-08-02": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "double|2026-08-03": [
-      2
-    ],
-    "m31|2026-08-01": [
-      3,
+      2,
       1
+    ],
+    "double|2026-08-05": [
+      3
     ],
     "m31|2026-08-02": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-08-03": [
-      2
-    ],
-    "m39|2026-08-01": [
-      3,
+      2,
       1
+    ],
+    "m31|2026-08-05": [
+      3
     ],
     "m39|2026-08-02": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m39|2026-08-03": [
-      2
-    ],
-    "m45|2026-08-01": [
-      3,
+      2,
       1
+    ],
+    "m39|2026-08-05": [
+      3
     ],
     "m45|2026-08-02": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m45|2026-08-03": [
-      2
-    ],
-    "mars|2026-08-01": [
-      3,
+      2,
       1
+    ],
+    "m45|2026-08-05": [
+      3
     ],
     "mars|2026-08-02": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "mars|2026-08-03": [
-      2
-    ],
-    "moon|2026-08-01": [
-      3,
+      2,
       1
+    ],
+    "mars|2026-08-05": [
+      3
     ],
     "moon|2026-08-02": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "moon|2026-08-03": [
-      2
-    ],
-    "saturn|2026-08-01": [
-      3,
+      2,
       1
+    ],
+    "moon|2026-08-05": [
+      3
     ],
     "saturn|2026-08-02": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "saturn|2026-08-03": [
-      2
+      2,
+      1
+    ],
+    "saturn|2026-08-05": [
+      3
     ]
   },
   "weather": {
-    "__night__|2026-08-01": "partly cloudy",
     "__night__|2026-08-02": "clear",
     "__night__|2026-08-03": "clear",
-    "__night__|2026-08-04": "partly cloudy"
+    "__night__|2026-08-04": "cloudy",
+    "__night__|2026-08-05": "clear"
   }
 }
