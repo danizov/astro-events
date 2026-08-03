@@ -109,105 +109,123 @@
     "space and astronomy highlights in 2026",
     "aye universe - \ud83c\udf0c\u2728 top sky events to watch in august 2026...",
     "9 night sky events to see in august, from a total solar eclipse to the return of ...",
-    "what's up in the night sky: august 2026"
+    "what's up in the night sky: august 2026",
+    "sky guide for august 2026",
+    "aye universe - \ud83c\udf0c\ud83d\udd2d top astronomical events in august 2026 \ud83c\udf20...",
+    "august\u2019s night sky will bring the year\u2019s best stargazing with 9 must-see events\u2014including the perseids and 2 eclipses",
+    "august 2026: what's in the sky this month? solar and lunar eclipses ..."
   ],
   "notified": {
-    "double|2026-08-02": [
-      3,
+    "double|2026-08-03": [
       2,
       1,
       0
     ],
-    "double|2026-08-03": [
-      2,
+    "double|2026-08-04": [
       1
     ],
     "double|2026-08-05": [
-      3
-    ],
-    "m31|2026-08-02": [
       3,
-      2,
-      1,
-      0
+      2
+    ],
+    "double|2026-08-06": [
+      3
     ],
     "m31|2026-08-03": [
       2,
+      1,
+      0
+    ],
+    "m31|2026-08-04": [
       1
     ],
     "m31|2026-08-05": [
-      3
-    ],
-    "m39|2026-08-02": [
       3,
-      2,
-      1,
-      0
+      2
+    ],
+    "m31|2026-08-06": [
+      3
     ],
     "m39|2026-08-03": [
       2,
+      1,
+      0
+    ],
+    "m39|2026-08-04": [
       1
     ],
     "m39|2026-08-05": [
-      3
-    ],
-    "m45|2026-08-02": [
       3,
-      2,
-      1,
-      0
+      2
+    ],
+    "m39|2026-08-06": [
+      3
     ],
     "m45|2026-08-03": [
       2,
+      1,
+      0
+    ],
+    "m45|2026-08-04": [
       1
     ],
     "m45|2026-08-05": [
-      3
-    ],
-    "mars|2026-08-02": [
       3,
-      2,
-      1,
-      0
+      2
+    ],
+    "m45|2026-08-06": [
+      3
     ],
     "mars|2026-08-03": [
       2,
+      1,
+      0
+    ],
+    "mars|2026-08-04": [
       1
     ],
     "mars|2026-08-05": [
-      3
-    ],
-    "moon|2026-08-02": [
       3,
-      2,
-      1,
-      0
+      2
+    ],
+    "mars|2026-08-06": [
+      3
     ],
     "moon|2026-08-03": [
       2,
+      1,
+      0
+    ],
+    "moon|2026-08-04": [
       1
     ],
     "moon|2026-08-05": [
+      3,
+      2
+    ],
+    "moon|2026-08-06": [
       3
     ],
-    "saturn|2026-08-02": [
-      3,
+    "saturn|2026-08-03": [
       2,
       1,
       0
     ],
-    "saturn|2026-08-03": [
-      2,
+    "saturn|2026-08-04": [
       1
     ],
     "saturn|2026-08-05": [
+      3,
+      2
+    ],
+    "saturn|2026-08-06": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-08-02": "clear",
     "__night__|2026-08-03": "clear",
-    "__night__|2026-08-04": "cloudy",
-    "__night__|2026-08-05": "clear"
+    "__night__|2026-08-04": "clear",
+    "__night__|2026-08-05": "clear",
+    "__night__|2026-08-06": "clear"
   }
 }
