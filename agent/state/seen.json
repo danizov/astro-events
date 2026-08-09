@@ -139,140 +139,135 @@
     "9 night sky events to see in august, from a total solar eclipse to the return of the northern lights | national geographic",
     "03:00 utc the waning gibbous moon passes just a few degrees from ...",
     "august 12, 2026 sky events: solar eclipse, perseids, planet parade",
-    "meteor showers, eclipses, and more are on the august 2026 astronomical calendar | wired"
+    "meteor showers, eclipses, and more are on the august 2026 astronomical calendar | wired",
+    "on august 12, 2026, skywatchers across parts ...",
+    "august 12, 2026 will see the peak of the largest meteor ..."
   ],
   "notified": {
     "almach|2026-08-09": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "almach|2026-08-10": [
       3,
-      2
+      2,
+      1
     ],
     "almach|2026-08-11": [
       3
     ],
-    "double|2026-08-08": [
-      3,
-      2,
-      1,
-      0
+    "almach|2026-08-12": [
+      3
     ],
     "double|2026-08-09": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "double|2026-08-10": [
       3,
-      2
+      2,
+      1
     ],
     "double|2026-08-11": [
       3
     ],
-    "m31|2026-08-08": [
-      3,
-      2,
-      1,
-      0
+    "double|2026-08-12": [
+      3
     ],
     "m31|2026-08-09": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-08-10": [
       3,
-      2
+      2,
+      1
     ],
     "m31|2026-08-11": [
       3
     ],
-    "m39|2026-08-08": [
-      3,
-      2,
-      1,
-      0
+    "m31|2026-08-12": [
+      3
     ],
     "m39|2026-08-09": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m39|2026-08-10": [
       3,
-      2
+      2,
+      1
     ],
     "m39|2026-08-11": [
       3
     ],
-    "m45|2026-08-08": [
-      3,
-      2,
-      1,
-      0
+    "m39|2026-08-12": [
+      3
     ],
     "m45|2026-08-09": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m45|2026-08-10": [
       3,
-      2
+      2,
+      1
     ],
     "m45|2026-08-11": [
       3
     ],
-    "mars|2026-08-08": [
-      3,
-      2,
-      1,
-      0
+    "m45|2026-08-12": [
+      3
     ],
     "mars|2026-08-09": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "mars|2026-08-10": [
       3,
-      2
+      2,
+      1
     ],
     "mars|2026-08-11": [
       3
     ],
-    "moon|2026-08-08": [
-      3,
-      2,
-      1,
-      0
-    ],
-    "saturn|2026-08-08": [
-      3,
-      2,
-      1,
-      0
+    "mars|2026-08-12": [
+      3
     ],
     "saturn|2026-08-09": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "saturn|2026-08-10": [
       3,
-      2
+      2,
+      1
     ],
     "saturn|2026-08-11": [
+      3
+    ],
+    "saturn|2026-08-12": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-08-08": "clear",
     "__night__|2026-08-09": "clear",
     "__night__|2026-08-10": "clear",
-    "__night__|2026-08-11": "clear"
+    "__night__|2026-08-11": "partly cloudy",
+    "__night__|2026-08-12": "clear"
   }
 }
