@@ -153,119 +153,92 @@
     "top 10s - august 12, 2026 is set to deliver one of the...",
     "august 12, 2026 will see the peak of the largest meteor shower of ...",
     "aye universe - \ud83c\udf0c\u2728 august 2026 is every stargazer's dream!...",
-    "2026, august 13: perseid peak and planet almanac"
+    "2026, august 13: perseid peak and planet almanac",
+    "august 2026 is every stargazer's dream! \ud83d\udd2d\ud83c\udf20 ..."
   ],
   "notified": {
-    "almach|2026-08-13": [
-      3,
-      2,
-      1,
-      0
-    ],
     "almach|2026-08-14": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "almach|2026-08-15": [
       3,
-      2
-    ],
-    "double|2026-08-13": [
-      3,
       2,
-      1,
-      0
+      1
     ],
     "double|2026-08-14": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "double|2026-08-15": [
       3,
-      2
-    ],
-    "m31|2026-08-13": [
-      3,
       2,
-      1,
-      0
+      1
     ],
     "m31|2026-08-14": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-08-15": [
       3,
-      2
-    ],
-    "m39|2026-08-13": [
-      3,
       2,
-      1,
-      0
+      1
     ],
     "m39|2026-08-14": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m39|2026-08-15": [
       3,
-      2
-    ],
-    "m45|2026-08-13": [
-      3,
       2,
-      1,
-      0
+      1
     ],
     "m45|2026-08-14": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m45|2026-08-15": [
       3,
-      2
-    ],
-    "mars|2026-08-13": [
-      3,
       2,
-      1,
-      0
+      1
     ],
     "mars|2026-08-14": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "mars|2026-08-15": [
       3,
-      2
+      2,
+      1
     ],
-    "saturn|2026-08-13": [
+    "saturn|2026-08-14": [
       3,
       2,
       1,
       0
     ],
-    "saturn|2026-08-14": [
+    "saturn|2026-08-15": [
       3,
       2,
       1
-    ],
-    "saturn|2026-08-15": [
-      3,
-      2
     ]
   },
   "weather": {
-    "__night__|2026-08-13": "clear",
     "__night__|2026-08-14": "clear",
     "__night__|2026-08-15": "clear",
-    "__night__|2026-08-16": "cloudy"
+    "__night__|2026-08-16": "cloudy",
+    "__night__|2026-08-17": "cloudy"
   }
 }
