@@ -157,56 +157,57 @@
     "august 2026 is every stargazer's dream! \ud83d\udd2d\ud83c\udf20 ...",
     "perseid meteor shower 2026! it's time to watch",
     "look up! up to 100 meteors an hour could hit u.s. skies",
-    "august 2026 is every stargazer's dream! from a spectacular total ..."
+    "august 2026 is every stargazer's dream! from a spectacular total ...",
+    "2026, august 13: perseid peak and planet almanac: venus, mars, saturn, and jupiter - when the curves line up"
   ],
   "notified": {
-    "almach|2026-08-16": [
-      0
+    "almach|2026-08-18": [
+      1
     ],
     "almach|2026-08-19": [
       3
     ],
-    "double|2026-08-16": [
-      0
+    "double|2026-08-18": [
+      1
     ],
     "double|2026-08-19": [
       3
     ],
-    "m31|2026-08-16": [
-      0
+    "m31|2026-08-18": [
+      1
     ],
     "m31|2026-08-19": [
       3
     ],
-    "m39|2026-08-16": [
-      0
+    "m39|2026-08-18": [
+      1
     ],
     "m39|2026-08-19": [
       3
     ],
-    "m45|2026-08-16": [
-      0
+    "m45|2026-08-18": [
+      1
     ],
     "m45|2026-08-19": [
       3
     ],
-    "mars|2026-08-16": [
-      0
+    "mars|2026-08-18": [
+      1
     ],
     "mars|2026-08-19": [
       3
     ],
-    "saturn|2026-08-16": [
-      0
+    "saturn|2026-08-18": [
+      1
     ],
     "saturn|2026-08-19": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-08-16": "partly cloudy",
     "__night__|2026-08-17": "cloudy",
-    "__night__|2026-08-18": "partly cloudy",
-    "__night__|2026-08-19": "clear"
+    "__night__|2026-08-18": "clear",
+    "__night__|2026-08-19": "cloudy",
+    "__night__|2026-08-20": "cloudy"
   }
 }
