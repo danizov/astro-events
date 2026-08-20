@@ -162,56 +162,66 @@
     "top astronomical events in august ...",
     "why august 12 will be the biggest stargazing night ...",
     "1.1m views \u00b7 18k reactions | top 4 amazing astronomical events in august 2026!\ud83e\udd29\n\naugust brings four incredible skywatching events! \n\n\ud83c\udf11 on august 12, witness a total solar eclipse along the path of totality. \n\n\u2604\ufe0f the perseid meteor shower peaks on august 12\u201313, producing up to 50\u2013100 meteors per hour under dark skies. \n\n\u2728 on august 14, enjoy the dazzling glow of venus in the western sky after sunset. \n\n\ud83c\udf15\ud83c\udf11 finally, on august 27\u201328, a partial lunar eclipse will paint part of the moon in earth\u2019s shadow. clear skies and happy stargazing! \ud83d\udd2d\u2728\n\n#august2026 #astronomy #space #solareclipse #lunareclipse #fullmoon #breakingnews #eclipse #totalsolareclipse #space #meteorshower | modern sciencex",
-    "what's up: august 2026 skywatching tips from nasa - nasa science"
+    "what's up: august 2026 skywatching tips from nasa - nasa science",
+    "astronomy events in august 2026: two eclipses, perseids & planet parade",
+    "rare astronomy events 2026 | celestial events 2026 | space events 2026 | sky events",
+    "what happens on august 12, 2026? the biggest skywatching day of the year"
   ],
   "notified": {
-    "almach|2026-08-19": [
-      3
-    ],
-    "double|2026-08-19": [
-      3
-    ],
     "double|2026-08-22": [
-      3
+      3,
+      2
     ],
-    "m31|2026-08-19": [
+    "double|2026-08-23": [
       3
     ],
     "m31|2026-08-22": [
-      3
+      3,
+      2
     ],
-    "m39|2026-08-19": [
+    "m31|2026-08-23": [
       3
     ],
     "m39|2026-08-22": [
-      3
+      3,
+      2
     ],
-    "m45|2026-08-19": [
+    "m39|2026-08-23": [
       3
     ],
     "m45|2026-08-22": [
-      3
+      3,
+      2
     ],
-    "mars|2026-08-19": [
+    "m45|2026-08-23": [
       3
     ],
     "mars|2026-08-22": [
+      3,
+      2
+    ],
+    "mars|2026-08-23": [
       3
     ],
     "moon|2026-08-22": [
-      3
+      3,
+      2
     ],
-    "saturn|2026-08-19": [
+    "moon|2026-08-23": [
       3
     ],
     "saturn|2026-08-22": [
+      3,
+      2
+    ],
+    "saturn|2026-08-23": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-08-19": "cloudy",
     "__night__|2026-08-20": "cloudy",
-    "__night__|2026-08-21": "cloudy",
-    "__night__|2026-08-22": "clear"
+    "__night__|2026-08-21": "partly cloudy",
+    "__night__|2026-08-22": "clear",
+    "__night__|2026-08-23": "clear"
   }
 }
