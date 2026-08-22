@@ -165,77 +165,92 @@
     "what's up: august 2026 skywatching tips from nasa - nasa science",
     "astronomy events in august 2026: two eclipses, perseids & planet parade",
     "rare astronomy events 2026 | celestial events 2026 | space events 2026 | sky events",
-    "what happens on august 12, 2026? the biggest skywatching day of the year"
+    "what happens on august 12, 2026? the biggest skywatching day of the year",
+    "august 2026 calendar"
   ],
   "notified": {
     "double|2026-08-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "double|2026-08-23": [
       3,
-      2
+      2,
+      1
     ],
     "m31|2026-08-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-08-23": [
       3,
-      2
+      2,
+      1
     ],
     "m39|2026-08-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m39|2026-08-23": [
       3,
-      2
+      2,
+      1
     ],
     "m45|2026-08-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m45|2026-08-23": [
       3,
-      2
+      2,
+      1
     ],
     "mars|2026-08-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "mars|2026-08-23": [
       3,
-      2
+      2,
+      1
     ],
     "moon|2026-08-22": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "moon|2026-08-23": [
-      3,
-      2
-    ],
-    "saturn|2026-08-22": [
       3,
       2,
       1
     ],
+    "saturn|2026-08-22": [
+      3,
+      2,
+      1,
+      0
+    ],
     "saturn|2026-08-23": [
       3,
-      2
+      2,
+      1
     ]
   },
   "weather": {
-    "__night__|2026-08-21": "partly cloudy",
     "__night__|2026-08-22": "clear",
     "__night__|2026-08-23": "clear",
-    "__night__|2026-08-24": "partly cloudy"
+    "__night__|2026-08-24": "cloudy",
+    "__night__|2026-08-25": "cloudy"
   }
 }
