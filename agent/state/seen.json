@@ -168,77 +168,64 @@
     "what happens on august 12, 2026? the biggest skywatching day of the year",
     "august 2026 calendar",
     "aye universe - \ud83c\udf0c\u2728 don't miss these amazing sky events in...",
-    "a spectacular day featuring a total solar eclipse, a six-planet ..."
+    "a spectacular day featuring a total solar eclipse, a six-planet ...",
+    "august 2026 astronomy guide"
   ],
   "notified": {
-    "double|2026-08-23": [
-      3,
-      2,
-      1,
-      0
-    ],
     "double|2026-08-25": [
-      2
-    ],
-    "m31|2026-08-23": [
-      3,
       2,
-      1,
-      0
+      1
+    ],
+    "double|2026-08-26": [
+      2
     ],
     "m31|2026-08-25": [
-      2
-    ],
-    "m39|2026-08-23": [
-      3,
       2,
-      1,
-      0
+      1
+    ],
+    "m31|2026-08-26": [
+      2
     ],
     "m39|2026-08-25": [
-      2
-    ],
-    "m45|2026-08-23": [
-      3,
       2,
-      1,
-      0
+      1
+    ],
+    "m39|2026-08-26": [
+      2
     ],
     "m45|2026-08-25": [
-      2
-    ],
-    "mars|2026-08-23": [
-      3,
       2,
-      1,
-      0
+      1
+    ],
+    "m45|2026-08-26": [
+      2
     ],
     "mars|2026-08-25": [
-      2
-    ],
-    "moon|2026-08-23": [
-      3,
       2,
-      1,
-      0
+      1
+    ],
+    "mars|2026-08-26": [
+      2
     ],
     "moon|2026-08-25": [
+      2,
+      1
+    ],
+    "moon|2026-08-26": [
       2
     ],
-    "saturn|2026-08-23": [
-      3,
-      2,
-      1,
-      0
-    ],
     "saturn|2026-08-25": [
+      2,
+      1
+    ],
+    "saturn|2026-08-26": [
       2
     ]
   },
   "weather": {
-    "__night__|2026-08-23": "clear",
     "__night__|2026-08-24": "cloudy",
     "__night__|2026-08-25": "clear",
-    "__night__|2026-08-26": "partly cloudy"
+    "__night__|2026-08-26": "clear",
+    "__night__|2026-08-27": "partly cloudy"
   }
 }
