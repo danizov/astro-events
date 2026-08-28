@@ -171,70 +171,106 @@
     "a spectacular day featuring a total solar eclipse, a six-planet ...",
     "august 2026 astronomy guide",
     "a spectacular day featuring a total solar eclipse, a six-planet alignment ...",
-    "9 night sky events to see in august, from a total solar eclipse to the ..."
+    "9 night sky events to see in august, from a total solar eclipse to the ...",
+    "2.1m views \u00b7 27k reactions | \ud83c\udf0c august 2026 could be the best month of the year for skywatching!\u2060\n\u2060\nfrom a bright comet and stunning planetary encounters to a total solar eclipse, the perseids, and a lunar eclipse, this month is packed with celestial highlights.\u2060\n\u2060\n\u2604\ufe0f august 2 \u2014 comet 10p/tempel 2 reaches perihelion and becomes a great binocular target.\u2060\n\ud83e\ude90 august 3 \u2014 the moon passes close to saturn.\u2060\n\u2b50 august 4 \u2014 venus shines between regulus and spica.\u2060\n\ud83d\udd34 august 9 \u2014 a close conjunction of the moon and mars.\u2060\n\ud83c\udf1e august 12 \u2014 a spectacular day featuring a total solar eclipse, a six-planet alignment, and the peak of the perseid meteor shower.\u2060\n\u2728 august 15 \u2014 venus reaches its greatest eastern elongation.\u2060\n\ud83c\udf19 august 16 \u2014 a beautiful pairing of the moon and venus.\u2060\n\ud83d\udd3a august 26 \u2014 mars lines up with betelgeuse and rigel.\u2060\n\ud83c\udf15 august 28 \u2014 a deep partial lunar eclipse lights up the night sky.\u2060\n\u2060\n\ud83c\udf20 wishing you clear skies and unforgettable observations this august!\u2060\n\u2060\n#comet #perseids #solareclipse #lunareclipse #starwalk | star walk"
   ],
   "notified": {
     "double|2026-08-28": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "double|2026-08-30": [
+      3,
+      2
+    ],
+    "double|2026-08-31": [
       3
     ],
     "m31|2026-08-28": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-08-30": [
+      3,
+      2
+    ],
+    "m31|2026-08-31": [
       3
     ],
     "m39|2026-08-28": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m39|2026-08-30": [
+      3,
+      2
+    ],
+    "m39|2026-08-31": [
       3
     ],
     "m45|2026-08-28": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m45|2026-08-30": [
+      3,
+      2
+    ],
+    "m45|2026-08-31": [
       3
     ],
     "mars|2026-08-28": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "mars|2026-08-30": [
+      3,
+      2
+    ],
+    "mars|2026-08-31": [
       3
     ],
     "moon|2026-08-28": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "moon|2026-08-30": [
+      3,
+      2
+    ],
+    "moon|2026-08-31": [
       3
     ],
     "saturn|2026-08-28": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "saturn|2026-08-30": [
+      3,
+      2
+    ],
+    "saturn|2026-08-31": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-08-27": "cloudy",
     "__night__|2026-08-28": "clear",
     "__night__|2026-08-29": "cloudy",
-    "__night__|2026-08-30": "clear"
+    "__night__|2026-08-30": "clear",
+    "__night__|2026-08-31": "clear"
   }
 }
