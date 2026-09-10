@@ -221,9 +221,9 @@
     ]
   },
   "weather": {
-    "__night__|2026-09-10": "cloudy",
+    "__night__|2026-09-10": "partly cloudy",
     "__night__|2026-09-11": "cloudy",
     "__night__|2026-09-12": "clear",
-    "__night__|2026-09-13": "cloudy"
+    "__night__|2026-09-13": "partly cloudy"
   }
 }
