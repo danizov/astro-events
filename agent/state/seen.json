@@ -188,42 +188,92 @@
     "moon meets four planets over several days, the moon will pass by ...",
     "sky events september 2026: calendar and dates - ondatravel",
     "sky events september 2026: calendar and dates",
-    "aye universe - \ud83c\udf0c\u2728 look up! september 2026 brings amazing..."
+    "aye universe - \ud83c\udf0c\u2728 look up! september 2026 brings amazing...",
+    "star walk - september 2026 is another great month for..."
   ],
   "notified": {
     "almach|2026-09-12": [
       3,
-      2
+      2,
+      1
     ],
     "double|2026-09-12": [
       3,
+      2,
+      1
+    ],
+    "double|2026-09-13": [
       2
+    ],
+    "double|2026-09-14": [
+      3
+    ],
+    "jupiter|2026-09-13": [
+      2
+    ],
+    "jupiter|2026-09-14": [
+      3
     ],
     "m31|2026-09-12": [
       3,
+      2,
+      1
+    ],
+    "m31|2026-09-13": [
       2
+    ],
+    "m31|2026-09-14": [
+      3
     ],
     "m39|2026-09-12": [
       3,
+      2,
+      1
+    ],
+    "m39|2026-09-13": [
       2
+    ],
+    "m39|2026-09-14": [
+      3
     ],
     "m45|2026-09-12": [
       3,
+      2,
+      1
+    ],
+    "m45|2026-09-13": [
       2
+    ],
+    "m45|2026-09-14": [
+      3
     ],
     "mars|2026-09-12": [
       3,
+      2,
+      1
+    ],
+    "mars|2026-09-13": [
       2
+    ],
+    "mars|2026-09-14": [
+      3
     ],
     "saturn|2026-09-12": [
       3,
+      2,
+      1
+    ],
+    "saturn|2026-09-13": [
       2
+    ],
+    "saturn|2026-09-14": [
+      3
     ]
   },
   "weather": {
-    "__night__|2026-09-10": "partly cloudy",
     "__night__|2026-09-11": "cloudy",
     "__night__|2026-09-12": "clear",
-    "__night__|2026-09-13": "partly cloudy"
+    "__night__|2026-09-13": "clear",
+    "__night__|2026-09-14": "clear"
   }
 }
