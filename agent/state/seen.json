@@ -190,91 +190,127 @@
     "sky events september 2026: calendar and dates",
     "aye universe - \ud83c\udf0c\u2728 look up! september 2026 brings amazing...",
     "star walk - september 2026 is another great month for...",
-    "september 2026 is another great month for stargazing \ud83c\udf0c\u2060 ..."
+    "september 2026 is another great month for stargazing \ud83c\udf0c\u2060 ...",
+    "9 night sky events to see in september, from the harvest ..."
   ],
   "notified": {
     "almach|2026-09-12": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "double|2026-09-12": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "double|2026-09-13": [
       2
     ],
     "double|2026-09-14": [
+      3,
+      2
+    ],
+    "double|2026-09-15": [
       3
     ],
     "jupiter|2026-09-13": [
       2
     ],
     "jupiter|2026-09-14": [
+      3,
+      2
+    ],
+    "jupiter|2026-09-15": [
       3
     ],
     "m31|2026-09-12": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-09-13": [
       2
     ],
     "m31|2026-09-14": [
+      3,
+      2
+    ],
+    "m31|2026-09-15": [
       3
     ],
     "m39|2026-09-12": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m39|2026-09-13": [
       2
     ],
     "m39|2026-09-14": [
+      3,
+      2
+    ],
+    "m39|2026-09-15": [
       3
     ],
     "m45|2026-09-12": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m45|2026-09-13": [
       2
     ],
     "m45|2026-09-14": [
+      3,
+      2
+    ],
+    "m45|2026-09-15": [
       3
     ],
     "mars|2026-09-12": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "mars|2026-09-13": [
       2
     ],
     "mars|2026-09-14": [
+      3,
+      2
+    ],
+    "mars|2026-09-15": [
       3
     ],
     "saturn|2026-09-12": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "saturn|2026-09-13": [
       2
     ],
     "saturn|2026-09-14": [
+      3,
+      2
+    ],
+    "saturn|2026-09-15": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-09-11": "cloudy",
     "__night__|2026-09-12": "clear",
     "__night__|2026-09-13": "partly cloudy",
-    "__night__|2026-09-14": "clear"
+    "__night__|2026-09-14": "clear",
+    "__night__|2026-09-15": "clear"
   }
 }
