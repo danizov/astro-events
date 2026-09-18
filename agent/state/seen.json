@@ -197,56 +197,92 @@
     "9 night sky events to see in september, from the harvest moon to venus at its brightest | national geographic",
     "what's up: september 2026 skywatching tips from nasa",
     "1.1m views \u00b7 39k reactions | top night sky events in september 2026 \ud83c\udf42 \ud83c\udf15 | the secrets of the universe",
-    "2026 sky and space calendar | milwaukee public museum"
+    "2026 sky and space calendar | milwaukee public museum",
+    "upcoming astronomical events 2026 | sky calendar 2026 | astronomy events this month"
   ],
   "notified": {
     "double|2026-09-19": [
-      3
+      3,
+      1
     ],
     "double|2026-09-20": [
+      3,
+      2
+    ],
+    "double|2026-09-21": [
       3
     ],
     "jupiter|2026-09-19": [
-      3
+      3,
+      1
     ],
     "jupiter|2026-09-20": [
+      3,
+      2
+    ],
+    "jupiter|2026-09-21": [
       3
     ],
     "m31|2026-09-19": [
-      3
+      3,
+      1
     ],
     "m31|2026-09-20": [
+      3,
+      2
+    ],
+    "m31|2026-09-21": [
       3
     ],
     "m45|2026-09-19": [
-      3
+      3,
+      1
     ],
     "m45|2026-09-20": [
+      3,
+      2
+    ],
+    "m45|2026-09-21": [
       3
     ],
     "mars|2026-09-19": [
-      3
+      3,
+      1
     ],
     "mars|2026-09-20": [
+      3,
+      2
+    ],
+    "mars|2026-09-21": [
       3
     ],
     "moon|2026-09-19": [
-      3
+      3,
+      1
     ],
     "moon|2026-09-20": [
+      3,
+      2
+    ],
+    "moon|2026-09-21": [
       3
     ],
     "saturn|2026-09-19": [
-      3
+      3,
+      1
     ],
     "saturn|2026-09-20": [
+      3,
+      2
+    ],
+    "saturn|2026-09-21": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-09-17": "cloudy",
     "__night__|2026-09-18": "cloudy",
-    "__night__|2026-09-19": "partly cloudy",
-    "__night__|2026-09-20": "clear"
+    "__night__|2026-09-19": "clear",
+    "__night__|2026-09-20": "clear",
+    "__night__|2026-09-21": "clear"
   }
 }
