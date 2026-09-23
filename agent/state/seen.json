@@ -201,112 +201,106 @@
     "upcoming astronomical events 2026 | sky calendar 2026 | astronomy events this month",
     "september meteor shower | epsilon perseids, september perseids | shooting stars in september",
     "september celestial events: bright venus, planets & stars near the moon",
-    "sky guide for september 2026"
+    "sky guide for september 2026",
+    "september 2026 night sky: what to see | astrobackyard"
   ],
   "notified": {
-    "double|2026-09-22": [
-      3,
-      2,
-      1,
-      0
-    ],
     "double|2026-09-23": [
       3,
       2,
-      1
-    ],
-    "double|2026-09-25": [
-      3
-    ],
-    "jupiter|2026-09-22": [
-      3,
-      2,
       1,
       0
+    ],
+    "double|2026-09-25": [
+      3,
+      2
+    ],
+    "double|2026-09-26": [
+      3
     ],
     "jupiter|2026-09-23": [
       3,
       2,
-      1
-    ],
-    "jupiter|2026-09-25": [
-      3
-    ],
-    "m31|2026-09-22": [
-      3,
-      2,
       1,
       0
+    ],
+    "jupiter|2026-09-25": [
+      3,
+      2
+    ],
+    "jupiter|2026-09-26": [
+      3
     ],
     "m31|2026-09-23": [
       3,
       2,
-      1
-    ],
-    "m31|2026-09-25": [
-      3
-    ],
-    "m45|2026-09-22": [
-      3,
-      2,
       1,
       0
+    ],
+    "m31|2026-09-25": [
+      3,
+      2
+    ],
+    "m31|2026-09-26": [
+      3
     ],
     "m45|2026-09-23": [
       3,
       2,
-      1
-    ],
-    "m45|2026-09-25": [
-      3
-    ],
-    "mars|2026-09-22": [
-      3,
-      2,
       1,
       0
+    ],
+    "m45|2026-09-25": [
+      3,
+      2
+    ],
+    "m45|2026-09-26": [
+      3
     ],
     "mars|2026-09-23": [
       3,
       2,
-      1
-    ],
-    "mars|2026-09-25": [
-      3
-    ],
-    "moon|2026-09-22": [
-      3,
-      2,
       1,
       0
+    ],
+    "mars|2026-09-25": [
+      3,
+      2
+    ],
+    "mars|2026-09-26": [
+      3
     ],
     "moon|2026-09-23": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "moon|2026-09-25": [
+      3,
+      2
+    ],
+    "moon|2026-09-26": [
       3
     ],
-    "saturn|2026-09-22": [
+    "saturn|2026-09-23": [
       3,
       2,
       1,
       0
     ],
-    "saturn|2026-09-23": [
-      3,
-      2,
-      1
-    ],
     "saturn|2026-09-25": [
+      3,
+      2
+    ],
+    "saturn|2026-09-26": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-09-22": "clear",
     "__night__|2026-09-23": "clear",
-    "__night__|2026-09-24": "partly cloudy",
-    "__night__|2026-09-25": "clear"
+    "__night__|2026-09-24": "cloudy",
+    "__night__|2026-09-25": "clear",
+    "__night__|2026-09-26": "clear"
   }
 }
