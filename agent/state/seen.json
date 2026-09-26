@@ -204,140 +204,144 @@
     "sky guide for september 2026",
     "september 2026 night sky: what to see | astrobackyard",
     "what\u2019s up: september 2026 skywatching tips from nasa",
-    "skywatcher's guide: august and september 2026"
+    "skywatcher's guide: august and september 2026",
+    "september 2026 skywatching guide: planetary conjunctions, full harvest moon, and more - starlust",
+    "september 2026 astronomy events: what to see",
+    "stargazing calendar for september 2026",
+    "2026 sky calendar \u2014 every eclipse, meteor shower, and ..."
   ],
   "notified": {
-    "double|2026-09-25": [
+    "double|2026-09-26": [
       3,
       2,
       1,
       0
     ],
-    "double|2026-09-26": [
+    "double|2026-09-27": [
       3,
       2,
       1
     ],
-    "double|2026-09-27": [
+    "double|2026-09-28": [
       3,
       2
     ],
-    "double|2026-09-28": [
+    "double|2026-09-29": [
       3
-    ],
-    "jupiter|2026-09-25": [
-      3,
-      2,
-      1,
-      0
     ],
     "jupiter|2026-09-26": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "jupiter|2026-09-27": [
       3,
-      2
+      2,
+      1
     ],
     "jupiter|2026-09-28": [
-      3
-    ],
-    "m31|2026-09-25": [
       3,
-      2,
-      1,
-      0
+      2
+    ],
+    "jupiter|2026-09-29": [
+      3
     ],
     "m31|2026-09-26": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-09-27": [
       3,
-      2
+      2,
+      1
     ],
     "m31|2026-09-28": [
-      3
-    ],
-    "m45|2026-09-25": [
       3,
-      2,
-      1,
-      0
+      2
+    ],
+    "m31|2026-09-29": [
+      3
     ],
     "m45|2026-09-26": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "m45|2026-09-27": [
       3,
-      2
+      2,
+      1
     ],
     "m45|2026-09-28": [
-      3
-    ],
-    "mars|2026-09-25": [
       3,
-      2,
-      1,
-      0
+      2
+    ],
+    "m45|2026-09-29": [
+      3
     ],
     "mars|2026-09-26": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "mars|2026-09-27": [
       3,
-      2
+      2,
+      1
     ],
     "mars|2026-09-28": [
-      3
-    ],
-    "moon|2026-09-25": [
       3,
-      2,
-      1,
-      0
+      2
+    ],
+    "mars|2026-09-29": [
+      3
     ],
     "moon|2026-09-26": [
       3,
       2,
-      1
+      1,
+      0
     ],
     "moon|2026-09-27": [
       3,
-      2
+      2,
+      1
     ],
     "moon|2026-09-28": [
+      3,
+      2
+    ],
+    "moon|2026-09-29": [
       3
     ],
-    "saturn|2026-09-25": [
+    "saturn|2026-09-26": [
       3,
       2,
       1,
       0
     ],
-    "saturn|2026-09-26": [
+    "saturn|2026-09-27": [
       3,
       2,
       1
     ],
-    "saturn|2026-09-27": [
+    "saturn|2026-09-28": [
       3,
       2
     ],
-    "saturn|2026-09-28": [
+    "saturn|2026-09-29": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-09-25": "clear",
     "__night__|2026-09-26": "clear",
     "__night__|2026-09-27": "clear",
-    "__night__|2026-09-28": "clear"
+    "__night__|2026-09-28": "clear",
+    "__night__|2026-09-29": "clear"
   }
 }
