@@ -220,42 +220,50 @@
     "do you think a language without conjunctions is possible?",
     "the capacity of visual working memory for features and ...",
     "2026/2027 meteor shower calendar | american meteor society",
-    "what's in the sky this month | october 2026 | high point scientific"
+    "what's in the sky this month | october 2026 | high point scientific",
+    "october 2025 astronomy calendar \u2013 meteor showers, comets & planetary events"
   ],
   "notified": {
     "double|2026-10-03": [
       2,
-      1
+      1,
+      0
     ],
     "jupiter|2026-10-03": [
       2,
-      1
+      1,
+      0
     ],
     "m31|2026-10-03": [
       2,
-      1
+      1,
+      0
     ],
     "m45|2026-10-03": [
       2,
-      1
+      1,
+      0
     ],
     "mars|2026-10-03": [
       2,
-      1
+      1,
+      0
     ],
     "moon|2026-10-03": [
       2,
-      1
+      1,
+      0
     ],
     "saturn|2026-10-03": [
       2,
-      1
+      1,
+      0
     ]
   },
   "weather": {
-    "__night__|2026-10-02": "partly cloudy",
     "__night__|2026-10-03": "clear",
     "__night__|2026-10-04": "partly cloudy",
-    "__night__|2026-10-05": "cloudy"
+    "__night__|2026-10-05": "cloudy",
+    "__night__|2026-10-06": "partly cloudy"
   }
 }
