@@ -221,49 +221,36 @@
     "the capacity of visual working memory for features and ...",
     "2026/2027 meteor shower calendar | american meteor society",
     "what's in the sky this month | october 2026 | high point scientific",
-    "october 2025 astronomy calendar \u2013 meteor showers, comets & planetary events"
+    "october 2025 astronomy calendar \u2013 meteor showers, comets & planetary events",
+    "don't miss these celestial... - the secrets of the universe"
   ],
   "notified": {
-    "double|2026-10-03": [
-      2,
-      1,
+    "double|2026-10-04": [
       0
     ],
-    "jupiter|2026-10-03": [
-      2,
-      1,
+    "jupiter|2026-10-04": [
       0
     ],
-    "m31|2026-10-03": [
-      2,
-      1,
+    "m31|2026-10-04": [
       0
     ],
-    "m45|2026-10-03": [
-      2,
-      1,
+    "m45|2026-10-04": [
       0
     ],
-    "mars|2026-10-03": [
-      2,
-      1,
+    "mars|2026-10-04": [
       0
     ],
-    "moon|2026-10-03": [
-      2,
-      1,
+    "moon|2026-10-04": [
       0
     ],
-    "saturn|2026-10-03": [
-      2,
-      1,
+    "saturn|2026-10-04": [
       0
     ]
   },
   "weather": {
-    "__night__|2026-10-03": "clear",
-    "__night__|2026-10-04": "partly cloudy",
+    "__night__|2026-10-04": "clear",
     "__night__|2026-10-05": "cloudy",
-    "__night__|2026-10-06": "partly cloudy"
+    "__night__|2026-10-06": "cloudy",
+    "__night__|2026-10-07": "cloudy"
   }
 }
