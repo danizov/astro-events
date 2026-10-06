@@ -223,13 +223,37 @@
     "what's in the sky this month | october 2026 | high point scientific",
     "october 2025 astronomy calendar \u2013 meteor showers, comets & planetary events",
     "don't miss these celestial... - the secrets of the universe",
-    "\ud83c\udf0c **look up! october 2026\u2019s... - beauty of planet earth"
+    "\ud83c\udf0c **look up! october 2026\u2019s... - beauty of planet earth",
+    "october 2026 calendar",
+    "october 2026 night sky: saturn closest to earth, orionids meteor shower peaks"
   ],
-  "notified": {},
+  "notified": {
+    "double|2026-10-09": [
+      3
+    ],
+    "jupiter|2026-10-09": [
+      3
+    ],
+    "m31|2026-10-09": [
+      3
+    ],
+    "m39|2026-10-09": [
+      3
+    ],
+    "m45|2026-10-09": [
+      3
+    ],
+    "mars|2026-10-09": [
+      3
+    ],
+    "saturn|2026-10-09": [
+      3
+    ]
+  },
   "weather": {
-    "__night__|2026-10-05": "cloudy",
     "__night__|2026-10-06": "cloudy",
     "__night__|2026-10-07": "cloudy",
-    "__night__|2026-10-08": "cloudy"
+    "__night__|2026-10-08": "cloudy",
+    "__night__|2026-10-09": "clear"
   }
 }
