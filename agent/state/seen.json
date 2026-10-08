@@ -227,7 +227,8 @@
     "october 2026 calendar",
     "october 2026 night sky: saturn closest to earth, orionids meteor shower peaks",
     "save these dates \u2014 october\u2019s best... - the celestial forest",
-    "october 2026 night sky: saturn closest to earth, moon covers jupiter, orionids meteor shower"
+    "october 2026 night sky: saturn closest to earth, moon covers jupiter, orionids meteor shower",
+    "what's up: october 2026 skywatching tips from nasa"
   ],
   "notified": {
     "double|2026-10-09": [
@@ -274,9 +275,9 @@
     ]
   },
   "weather": {
-    "__night__|2026-10-07": "cloudy",
-    "__night__|2026-10-08": "partly cloudy",
+    "__night__|2026-10-08": "cloudy",
     "__night__|2026-10-09": "cloudy",
-    "__night__|2026-10-10": "clear"
+    "__night__|2026-10-10": "cloudy",
+    "__night__|2026-10-11": "cloudy"
   }
 }
