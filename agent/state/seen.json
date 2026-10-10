@@ -228,77 +228,85 @@
     "october 2026 night sky: saturn closest to earth, orionids meteor shower peaks",
     "save these dates \u2014 october\u2019s best... - the celestial forest",
     "october 2026 night sky: saturn closest to earth, moon covers jupiter, orionids meteor shower",
-    "what's up: october 2026 skywatching tips from nasa"
+    "what's up: october 2026 skywatching tips from nasa",
+    "sky&earth - \ud83c\udf0c october sky wonders get ready for a..."
   ],
   "notified": {
-    "double|2026-10-09": [
-      3
-    ],
     "double|2026-10-10": [
       3
     ],
     "double|2026-10-12": [
-      3
+      3,
+      2
     ],
-    "jupiter|2026-10-09": [
+    "double|2026-10-13": [
       3
     ],
     "jupiter|2026-10-10": [
       3
     ],
     "jupiter|2026-10-12": [
-      3
+      3,
+      2
     ],
-    "m31|2026-10-09": [
+    "jupiter|2026-10-13": [
       3
     ],
     "m31|2026-10-10": [
       3
     ],
     "m31|2026-10-12": [
-      3
+      3,
+      2
     ],
-    "m39|2026-10-09": [
+    "m31|2026-10-13": [
       3
     ],
     "m39|2026-10-10": [
       3
     ],
     "m39|2026-10-12": [
-      3
+      3,
+      2
     ],
-    "m45|2026-10-09": [
+    "m39|2026-10-13": [
       3
     ],
     "m45|2026-10-10": [
       3
     ],
     "m45|2026-10-12": [
-      3
+      3,
+      2
     ],
-    "mars|2026-10-09": [
+    "m45|2026-10-13": [
       3
     ],
     "mars|2026-10-10": [
       3
     ],
     "mars|2026-10-12": [
-      3
+      3,
+      2
     ],
-    "saturn|2026-10-09": [
+    "mars|2026-10-13": [
       3
     ],
     "saturn|2026-10-10": [
       3
     ],
     "saturn|2026-10-12": [
+      3,
+      2
+    ],
+    "saturn|2026-10-13": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-10-09": "cloudy",
     "__night__|2026-10-10": "cloudy",
     "__night__|2026-10-11": "cloudy",
-    "__night__|2026-10-12": "clear"
+    "__night__|2026-10-12": "clear",
+    "__night__|2026-10-13": "clear"
   }
 }
