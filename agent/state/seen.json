@@ -265,7 +265,7 @@
   "weather": {
     "__night__|2026-10-16": "cloudy",
     "__night__|2026-10-17": "partly cloudy",
-    "__night__|2026-10-18": "partly cloudy",
-    "__night__|2026-10-19": "clear"
+    "__night__|2026-10-18": "cloudy",
+    "__night__|2026-10-19": "partly cloudy"
   }
 }
