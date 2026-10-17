@@ -240,32 +240,53 @@
     "october 2026 sky events: 9 meteor showers, moons & planets ..."
   ],
   "notified": {
+    "double|2026-10-18": [
+      1
+    ],
     "double|2026-10-19": [
       3
+    ],
+    "jupiter|2026-10-18": [
+      1
     ],
     "jupiter|2026-10-19": [
       3
     ],
+    "m31|2026-10-18": [
+      1
+    ],
     "m31|2026-10-19": [
       3
+    ],
+    "m45|2026-10-18": [
+      1
     ],
     "m45|2026-10-19": [
       3
     ],
+    "mars|2026-10-18": [
+      1
+    ],
     "mars|2026-10-19": [
       3
     ],
+    "moon|2026-10-18": [
+      1
+    ],
     "moon|2026-10-19": [
       3
+    ],
+    "saturn|2026-10-18": [
+      1
     ],
     "saturn|2026-10-19": [
       3
     ]
   },
   "weather": {
-    "__night__|2026-10-16": "cloudy",
-    "__night__|2026-10-17": "partly cloudy",
-    "__night__|2026-10-18": "cloudy",
-    "__night__|2026-10-19": "partly cloudy"
+    "__night__|2026-10-17": "cloudy",
+    "__night__|2026-10-18": "clear",
+    "__night__|2026-10-19": "partly cloudy",
+    "__night__|2026-10-20": "cloudy"
   }
 }
