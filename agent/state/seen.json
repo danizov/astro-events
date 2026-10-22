@@ -237,42 +237,64 @@
     "top astronomy events for october 2026",
     "october 2026 sky events saturn opposition and meteor ...",
     "sky moments to watch in 2026: meteor showers, planetary ...",
-    "october 2026 sky events: 9 meteor showers, moons & planets ..."
+    "october 2026 sky events: 9 meteor showers, moons & planets ...",
+    "skywatcher's guide: october and november 2026 | flandrau science center & planetarium"
   ],
   "notified": {
     "jupiter|2026-10-22": [
       3,
       2
     ],
+    "jupiter|2026-10-24": [
+      2
+    ],
     "m31|2026-10-22": [
       3,
+      2
+    ],
+    "m31|2026-10-24": [
       2
     ],
     "m44|2026-10-22": [
       3,
       2
     ],
+    "m44|2026-10-24": [
+      2
+    ],
     "m45|2026-10-22": [
       3,
+      2
+    ],
+    "m45|2026-10-24": [
       2
     ],
     "mars|2026-10-22": [
       3,
       2
     ],
+    "mars|2026-10-24": [
+      2
+    ],
     "moon|2026-10-22": [
       3,
+      2
+    ],
+    "moon|2026-10-24": [
       2
     ],
     "saturn|2026-10-22": [
       3,
       2
+    ],
+    "saturn|2026-10-24": [
+      2
     ]
   },
   "weather": {
-    "__night__|2026-10-21": "partly cloudy",
     "__night__|2026-10-22": "partly cloudy",
     "__night__|2026-10-23": "cloudy",
-    "__night__|2026-10-24": "partly cloudy"
+    "__night__|2026-10-24": "clear",
+    "__night__|2026-10-25": "cloudy"
   }
 }
