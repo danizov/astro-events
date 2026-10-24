@@ -239,7 +239,8 @@
     "sky moments to watch in 2026: meteor showers, planetary ...",
     "october 2026 sky events: 9 meteor showers, moons & planets ...",
     "skywatcher's guide: october and november 2026 | flandrau science center & planetarium",
-    "what's up: october 2026 skywatching tips from nasa - nasa science"
+    "what's up: october 2026 skywatching tips from nasa - nasa science",
+    "meteors, milky way, hunter's moon: september astronomical events - koat"
   ],
   "notified": {
     "jupiter|2026-10-24": [
@@ -272,9 +273,9 @@
     ]
   },
   "weather": {
-    "__night__|2026-10-23": "cloudy",
-    "__night__|2026-10-24": "clear",
+    "__night__|2026-10-24": "partly cloudy",
     "__night__|2026-10-25": "cloudy",
-    "__night__|2026-10-26": "partly cloudy"
+    "__night__|2026-10-26": "partly cloudy",
+    "__night__|2026-10-27": "partly cloudy"
   }
 }
