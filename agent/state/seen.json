@@ -240,42 +240,41 @@
     "october 2026 sky events: 9 meteor showers, moons & planets ...",
     "skywatcher's guide: october and november 2026 | flandrau science center & planetarium",
     "what's up: october 2026 skywatching tips from nasa - nasa science",
-    "meteors, milky way, hunter's moon: september astronomical events - koat"
+    "meteors, milky way, hunter's moon: september astronomical events - koat",
+    "microsoft security | microsoft community hub",
+    "windows 8.1 iso download for 64 and 32 bit | microsoft community hub",
+    "windows insider program | microsoft community hub",
+    "excel now supports multiple values in a single cell",
+    "new microsoft certified: azure ai apps and agents developer associate",
+    "verify your age for a microsoft account. | microsoft support"
   ],
   "notified": {
-    "jupiter|2026-10-24": [
-      2,
-      1
+    "jupiter|2026-10-27": [
+      2
     ],
-    "m31|2026-10-24": [
-      2,
-      1
+    "m31|2026-10-27": [
+      2
     ],
-    "m44|2026-10-24": [
-      2,
-      1
+    "m44|2026-10-27": [
+      2
     ],
-    "m45|2026-10-24": [
-      2,
-      1
+    "m45|2026-10-27": [
+      2
     ],
-    "mars|2026-10-24": [
-      2,
-      1
+    "mars|2026-10-27": [
+      2
     ],
-    "moon|2026-10-24": [
-      2,
-      1
+    "moon|2026-10-27": [
+      2
     ],
-    "saturn|2026-10-24": [
-      2,
-      1
+    "saturn|2026-10-27": [
+      2
     ]
   },
   "weather": {
-    "__night__|2026-10-24": "partly cloudy",
     "__night__|2026-10-25": "cloudy",
     "__night__|2026-10-26": "partly cloudy",
-    "__night__|2026-10-27": "partly cloudy"
+    "__night__|2026-10-27": "clear",
+    "__night__|2026-10-28": "cloudy"
   }
 }
