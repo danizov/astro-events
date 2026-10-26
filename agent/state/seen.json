@@ -246,35 +246,64 @@
     "windows insider program | microsoft community hub",
     "excel now supports multiple values in a single cell",
     "new microsoft certified: azure ai apps and agents developer associate",
-    "verify your age for a microsoft account. | microsoft support"
+    "verify your age for a microsoft account. | microsoft support",
+    "october 2026 night sky events: meteors, saturn & aurora | jnp travel"
   ],
   "notified": {
     "jupiter|2026-10-27": [
+      2,
+      1
+    ],
+    "jupiter|2026-10-28": [
       2
     ],
     "m31|2026-10-27": [
+      2,
+      1
+    ],
+    "m31|2026-10-28": [
       2
     ],
     "m44|2026-10-27": [
+      2,
+      1
+    ],
+    "m44|2026-10-28": [
       2
     ],
     "m45|2026-10-27": [
+      2,
+      1
+    ],
+    "m45|2026-10-28": [
       2
     ],
     "mars|2026-10-27": [
+      2,
+      1
+    ],
+    "mars|2026-10-28": [
       2
     ],
     "moon|2026-10-27": [
+      2,
+      1
+    ],
+    "moon|2026-10-28": [
       2
     ],
     "saturn|2026-10-27": [
+      2,
+      1
+    ],
+    "saturn|2026-10-28": [
       2
     ]
   },
   "weather": {
-    "__night__|2026-10-25": "cloudy",
-    "__night__|2026-10-26": "partly cloudy",
+    "__night__|2026-10-26": "cloudy",
     "__night__|2026-10-27": "clear",
-    "__night__|2026-10-28": "cloudy"
+    "__night__|2026-10-28": "clear",
+    "__night__|2026-10-29": "partly cloudy"
   }
 }
