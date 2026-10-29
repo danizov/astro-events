@@ -256,22 +256,15 @@
     "october 2026 astronomy events: what to see",
     "13 must-see astronomy events in the october night sky this year (2026)",
     "october night sky 2026: what's in the sky this month",
-    "october 2026: what's in the sky this month?"
+    "october 2026: what's in the sky this month?",
+    "25 reactions | what's up for october 2026: skywatching tips from nasa | jpl\nfriendsofnasa.org: saturn takes center stage, a meteor shower lights up the sky, and the moon visits the seven sisters.\n\non october 4, saturn reaches opposition, giving skywatchers one of the year's best opportunities to see the ringed planet. in addition, learn about a 10-sided atmospheric wave encircling saturn's south pole that was recently revealed by nasa\u2019s hubble space telescope.\n\nthe orionid meteor shower peaks october 21-22. debris from halley's comet produces the meteors, but this year, a bright moon will obscure some of the fainter streaks. the best viewing chances will likely be the hours before dawn, after the moon sets.\n\nthen, on october 27-28, look east in the evening for the moon passing close to the pleiades, also known as the seven sisters. the star cluster is visible to the unaided eye and even more spectacular through binoculars.\n\n0:00 intro\n\n0:10 saturn at opposition\n\n0:30 saturn's south pole decagon \n\n1:01 the orionids peak\n\n1:39 the pleiades aka seven sisters\n\n2:20 phases of the moon \n\nvideo credit: nasa's jet propulsion laboratory\nduration: 2 minutes, 42 seconds\nrelease date: oct. 1, 2026\n\n#nasa #astronomy #space #science #skywatching #earth #meteors #orionids #moon #planets #saturn #solarsystem #nebulae #stars #thepleiades #sevensisters #constellations #milkywaygalaxy #skywatching #jpl #california #unitedstates #canada #mexico #northernhemisphere #stem #education #hd #video | friends of nasa"
   ],
   "notified": {
-    "jupiter|2026-10-28": [
-      2,
-      1
-    ],
     "jupiter|2026-10-29": [
       2
     ],
     "jupiter|2026-10-31": [
       3
-    ],
-    "m31|2026-10-28": [
-      2,
-      1
     ],
     "m31|2026-10-29": [
       2
@@ -279,19 +272,11 @@
     "m31|2026-10-31": [
       3
     ],
-    "m44|2026-10-28": [
-      2,
-      1
-    ],
     "m44|2026-10-29": [
       2
     ],
     "m44|2026-10-31": [
       3
-    ],
-    "m45|2026-10-28": [
-      2,
-      1
     ],
     "m45|2026-10-29": [
       2
@@ -299,29 +284,17 @@
     "m45|2026-10-31": [
       3
     ],
-    "mars|2026-10-28": [
-      2,
-      1
-    ],
     "mars|2026-10-29": [
       2
     ],
     "mars|2026-10-31": [
       3
     ],
-    "moon|2026-10-28": [
-      2,
-      1
-    ],
     "moon|2026-10-29": [
       2
     ],
     "moon|2026-10-31": [
       3
-    ],
-    "saturn|2026-10-28": [
-      2,
-      1
     ],
     "saturn|2026-10-29": [
       2
@@ -331,9 +304,9 @@
     ]
   },
   "weather": {
-    "__night__|2026-10-28": "partly cloudy",
     "__night__|2026-10-29": "partly cloudy",
     "__night__|2026-10-30": "partly cloudy",
-    "__night__|2026-10-31": "clear"
+    "__night__|2026-10-31": "cloudy",
+    "__night__|2026-11-01": "cloudy"
   }
 }
