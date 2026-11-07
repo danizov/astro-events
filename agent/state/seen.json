@@ -277,9 +277,9 @@
   ],
   "notified": {},
   "weather": {
-    "__night__|2026-11-06": "cloudy",
-    "__night__|2026-11-07": "partly cloudy",
+    "__night__|2026-11-07": "cloudy",
     "__night__|2026-11-08": "cloudy",
-    "__night__|2026-11-09": "cloudy"
+    "__night__|2026-11-09": "cloudy",
+    "__night__|2026-11-10": "cloudy"
   }
 }
