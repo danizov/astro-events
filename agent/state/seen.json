@@ -292,33 +292,11 @@
     "friends of nasa on facebook: \"what's up for november 2026? skywatching tips from nasa | jpl friendsofnasa.org: meteor showers, a c\u2026\"",
     "7 night sky events happening in november 2026"
   ],
-  "notified": {
-    "jupiter|2026-11-23": [
-      1
-    ],
-    "m31|2026-11-23": [
-      1
-    ],
-    "m45|2026-11-23": [
-      1
-    ],
-    "mars|2026-11-23": [
-      1
-    ],
-    "moon|2026-11-23": [
-      1
-    ],
-    "saturn|2026-11-23": [
-      1
-    ],
-    "venus|2026-11-23": [
-      1
-    ]
-  },
+  "notified": {},
   "weather": {
-    "__night__|2026-11-23": "partly cloudy",
     "__night__|2026-11-24": "cloudy",
     "__night__|2026-11-25": "cloudy",
-    "__night__|2026-11-26": "cloudy"
+    "__night__|2026-11-26": "cloudy",
+    "__night__|2026-11-27": "cloudy"
   }
 }
