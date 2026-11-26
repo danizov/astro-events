@@ -294,13 +294,14 @@
     "what\u2019s up november 2026 | york astro",
     "astronomical events for november 2026: meteors, supermoon - kcra",
     "november night sky 2026: what's in the sky this month",
-    "sky guide for november 2026"
+    "sky guide for november 2026",
+    "nasa - national aeronautics and space administration on facebook: \"what's up for november 2026\""
   ],
   "notified": {},
   "weather": {
-    "__night__|2026-11-25": "cloudy",
     "__night__|2026-11-26": "partly cloudy",
     "__night__|2026-11-27": "cloudy",
-    "__night__|2026-11-28": "cloudy"
+    "__night__|2026-11-28": "partly cloudy",
+    "__night__|2026-11-29": "partly cloudy"
   }
 }
